@@ -1,0 +1,1000 @@
+id,first_name,last_name,email,gender,speciality,Faculty,Short_code,Title,Required,year,semester,grade
+1,Giavani,Cathersides,gcathersides0@vk.com,M,CS,Engineering,CSS 102,Programming technologies,R,2021,spring,28
+4,Anabelle,Baud,abaud3@hexun.com,F,CS,Engineering,MDE 103,Kazakh 2,R,2019,spring,89
+5,Caresse,Gratten,cgratten4@baidu.com,F,MAT,Engineering,CSS 225,Web technologies,R,2019,fall,70
+6,Josy,Reeme,jreeme5@wsj.com,F,CS,Engineering,CSS 225,Web technologies,E,2021,spring,49
+7,Jesse,Murcutt,jmurcutt6@newsvine.com,F,CS,Engineering,MDE 105,Turkish 1,E,2020,summer,8
+10,Jemie,Norgan,jnorgan9@reuters.com,F,MAT,Engineering,MAT 101,Mathematics 1,R,2019,spring,9
+11,Damian,MacGillicuddy,dmacgillicuddya@prweb.com,M,IS,Engineering,MDE 102,Kazakh 1,E,2021,fall,88
+12,Herb,Simchenko,hsimchenkob@oracle.com,M,MAT,Engineering,CSS 202,Algorithms 2,E,2020,spring,81
+14,Blythe,Dawe,bdawed@twitpic.com,F,CS,Engineering,MAT 101,Mathematics 1,E,2020,summer,81
+21,Goddart,Kennerknecht,gkennerknechtk@51.la,M,MAT,Engineering,CSS 202,Algorithms 2,E,2019,fall,47
+22,Osborne,Squibb,osquibbl@nhs.uk,M,MAT,Engineering,CSS 102,Programming technologies,E,2019,summer,71
+24,Ike,Maher,imahern@va.gov,M,MAT,Engineering,MDE 111,English 2,R,2019,fall,36
+25,Jane,Jee,jjeeo@wsj.com,F,MAT,Engineering,MDE 105,Turkish 1,E,2021,fall,49
+26,Hyman,Cescoti,hcescotip@photobucket.com,M,CS,Engineering,MDE 102,Kazakh 1,R,2019,fall,82
+27,Crissie,Cornuau,ccornuauq@google.nl,F,CS,Engineering,MDE 111,English 2,R,2020,summer,84
+28,Hallsy,Dougal,hdougalr@dmoz.org,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2019,fall,85
+31,Lurlene,Dykas,ldykasu@irs.gov,F,MAT,Engineering,CSS 221,Database 2,R,2019,spring,51
+32,Tabor,Deveril,tdeverilv@fotki.com,M,CS,Engineering,MDE 103,Kazakh 2,R,2021,spring,98
+33,Juana,Hillborne,jhillbornew@clickbank.net,F,IS,Engineering,MDE 105,Turkish 1,R,2020,summer,35
+34,Odele,MacRanald,omacranaldx@miitbeian.gov.cn,F,MAT,Engineering,MDE 102,Kazakh 1,E,2020,fall,40
+35,Skelly,Ellin,selliny@mail.ru,M,CS,Engineering,MDE 103,Kazakh 2,R,2021,summer,33
+38,Arv,Kobelt,akobelt11@google.com,M,MAT,Engineering,CSS 208,Physics,R,2020,fall,94
+39,Taffy,Mariolle,tmariolle12@wisc.edu,F,IS,Engineering,CSS 102,Programming technologies,R,2019,fall,17
+40,Janeczka,Whyley,jwhyley13@amazonaws.com,F,MAT,Engineering,CSS 210,Database 1,E,2021,spring,57
+41,Shanta,Quogan,squogan14@wsj.com,F,CS,Engineering,MDE 102,Kazakh 1,R,2019,fall,82
+42,Dennet,Micklem,dmicklem15@diigo.com,M,MAT,Engineering,MDE 111,English 2,R,2021,summer,28
+45,Gallagher,Parkin,gparkin18@de.vu,M,IS,Engineering,CSS 101,Fundamentals of programming,E,2021,fall,73
+46,Nellie,Wilce,nwilce19@fda.gov,F,IS,Engineering,CSS 210,Database 1,R,2020,spring,3
+47,Janel,MacMenemy,jmacmenemy1a@bbc.co.uk,F,IS,Engineering,CSS 208,Physics,E,2021,summer,75
+49,Clark,Moens,cmoens1c@etsy.com,M,MAT,Engineering,MAT 103,Linear algebra,R,2021,spring,87
+50,Alexia,Mainson,amainson1d@earthlink.net,F,CS,Engineering,CSS 221,Database 2,R,2021,summer,26
+51,Susann,Elvins,selvins1e@zimbio.com,F,CS,Engineering,MAT 202,Probability and Statistics,R,2020,spring,4
+53,Damita,Dahmke,ddahmke1g@vimeo.com,F,CS,Engineering,CSS 102,Programming technologies,R,2019,spring,16
+54,Quint,Schermick,qschermick1h@intel.com,M,CS,Engineering,MAT 101,Mathematics 1,E,2020,fall,79
+55,Callida,Jullian,cjullian1i@symantec.com,F,MAT,Engineering,MDE 111,English 2,R,2019,summer,34
+56,Benita,Grenshields,bgrenshields1j@ebay.com,F,IS,Engineering,CSS 201,Algorithms 1,E,2020,summer,22
+57,Konstantin,Woloschin,kwoloschin1k@google.ru,M,CS,Engineering,CSS 101,Fundamentals of programming,E,2019,fall,58
+60,Xenos,Shute,xshute1n@nyu.edu,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2019,spring,13
+61,Hastie,Atwater,hatwater1o@tripadvisor.com,M,CS,Engineering,CSS 221,Database 2,R,2020,fall,31
+63,Ardella,Wildish,awildish1q@geocities.jp,F,IS,Engineering,MAT 105,Discrete math,E,2019,spring,13
+64,Thomasa,Duberry,tduberry1r@uol.com.br,F,CS,Engineering,CSS 102,Programming technologies,R,2020,summer,32
+66,Carmina,Pitblado,cpitblado1t@cbsnews.com,F,CS,Engineering,MAT 103,Linear algebra,E,2019,summer,2
+67,Homer,Rissen,hrissen1u@geocities.jp,M,IS,Engineering,MAT 202,Probability and Statistics,E,2021,fall,14
+68,Maddie,Kurdani,mkurdani1v@ca.gov,M,MAT,Engineering,CSS 201,Algorithms 1,E,2019,fall,97
+69,Carr,Ommundsen,commundsen1w@pcworld.com,M,CS,Engineering,MAT 202,Probability and Statistics,R,2021,fall,45
+70,Olav,Dutton,odutton1x@timesonline.co.uk,M,MAT,Engineering,CSS 210,Database 1,E,2019,spring,58
+72,Shandee,Emsley,semsley1z@furl.net,F,MAT,Engineering,MDE 111,English 2,R,2021,spring,9
+73,Deanne,Leyshon,dleyshon20@1und1.de,F,CS,Engineering,CSS 225,Web technologies,E,2021,summer,37
+74,Tadd,Ditzel,tditzel21@dedecms.com,M,IS,Engineering,MAT 103,Linear algebra,E,2019,fall,76
+75,Forrest,Kerne,fkerne22@wikispaces.com,M,CS,Engineering,CSS 221,Database 2,R,2019,spring,72
+76,Eva,Lince,elince23@wordpress.org,F,MAT,Engineering,MDE 105,Turkish 1,E,2019,spring,37
+77,Osbourn,Van Halen,ovanhalen24@t.co,M,IS,Engineering,MAT 105,Discrete math,E,2019,fall,57
+80,Eugene,D'Aguanno,edaguanno27@exblog.jp,M,CS,Engineering,MDE 111,English 2,R,2020,spring,43
+82,Perry,Foxon,pfoxon29@forbes.com,M,MAT,Engineering,MAT 103,Linear algebra,R,2019,fall,49
+87,Olag,Ogilvy,oogilvy2e@netvibes.com,M,IS,Engineering,MAT 101,Mathematics 1,E,2019,fall,50
+89,Thor,Barlass,tbarlass2g@newyorker.com,M,MAT,Engineering,MDE 105,Turkish 1,E,2019,spring,95
+91,Antonius,Rain,arain2i@bbb.org,M,CS,Engineering,MDE 111,English 2,R,2019,fall,42
+92,Hadleigh,Farguhar,hfarguhar2j@usda.gov,M,IS,Engineering,MDE 101,English 1,E,2021,spring,81
+93,Viviana,Askell,vaskell2k@unblog.fr,F,CS,Engineering,CSS 208,Physics,E,2019,fall,84
+94,Cynthy,Grishukov,cgrishukov2l@economist.com,F,CS,Engineering,CSS 208,Physics,E,2019,fall,23
+95,Elvira,Bateman,ebateman2m@imgur.com,F,CS,Engineering,MAT 103,Linear algebra,E,2020,spring,84
+96,Pooh,Conningham,pconningham2n@biblegateway.com,M,MAT,Engineering,CSS 215,Programming abstractions,R,2019,spring,21
+97,Kissiah,O'Scollee,koscollee2o@squarespace.com,F,MAT,Engineering,MAT 105,Discrete math,E,2020,summer,27
+98,Janela,Urian,jurian2p@parallels.com,F,IS,Engineering,CSS 102,Programming technologies,R,2019,spring,54
+104,Rufus,Isselee,risselee2v@networksolutions.com,M,CS,Engineering,MAT 105,Discrete math,R,2021,summer,21
+105,Sansone,Eatock,seatock2w@umich.edu,M,CS,Engineering,CSS 101,Fundamentals of programming,E,2020,summer,89
+106,Tracie,Kummerlowe,tkummerlowe2x@auda.org.au,M,MAT,Engineering,MAT 103,Linear algebra,R,2020,summer,26
+109,Darrel,Sowersby,dsowersby30@fda.gov,M,IS,Engineering,MAT 105,Discrete math,E,2019,spring,84
+110,Celestyna,Hiom,chiom31@feedburner.com,F,IS,Engineering,CSS 225,Web technologies,R,2021,summer,61
+111,Buckie,Kobieriecki,bkobieriecki32@vk.com,M,CS,Engineering,CSS 208,Physics,E,2021,fall,33
+112,Carin,Clever,cclever33@slate.com,F,MAT,Engineering,MAT 105,Discrete math,E,2021,summer,71
+116,Felix,Diggons,fdiggons37@intel.com,M,MAT,Engineering,CSS 102,Programming technologies,E,2019,fall,13
+117,Hamil,Pynner,hpynner38@yolasite.com,M,CS,Engineering,MDE 105,Turkish 1,E,2021,summer,87
+119,Adaline,Dinwoodie,adinwoodie3a@timesonline.co.uk,F,CS,Engineering,CSS 101,Fundamentals of programming,E,2019,spring,92
+120,Deedee,Packwood,dpackwood3b@dell.com,F,CS,Engineering,MDE 115,Turkish 2,E,2019,summer,68
+121,Denny,Blaiklock,dblaiklock3c@youku.com,M,IS,Engineering,MDE 101,English 1,E,2020,spring,65
+122,Blinni,Gutridge,bgutridge3d@nationalgeographic.com,F,CS,Engineering,MDE 102,Kazakh 1,R,2019,summer,14
+125,Maurita,Ratie,mratie3g@bluehost.com,F,MAT,Engineering,MAT 105,Discrete math,E,2020,summer,28
+126,Zahara,Renn,zrenn3h@dyndns.org,F,IS,Engineering,MDE 102,Kazakh 1,E,2020,fall,67
+130,Leeland,Doby,ldoby3l@fastcompany.com,M,CS,Engineering,CSS 215,Programming abstractions,R,2019,summer,68
+133,Alexandrina,Alvar,aalvar3o@parallels.com,F,CS,Engineering,CSS 202,Algorithms 2,R,2019,summer,98
+135,Sharai,Spollen,sspollen3q@gov.uk,F,MAT,Engineering,CSS 202,Algorithms 2,E,2019,fall,21
+138,Berky,McQuode,bmcquode3t@blogs.com,M,CS,Engineering,CSS 215,Programming abstractions,R,2021,fall,94
+140,Beitris,Campion,bcampion3v@icio.us,F,IS,Engineering,CSS 210,Database 1,R,2019,summer,83
+141,Ange,Sondon,asondon3w@google.ru,M,CS,Engineering,MAT 105,Discrete math,R,2019,summer,96
+144,Bailie,Currer,bcurrer3z@flickr.com,M,IS,Engineering,MAT 101,Mathematics 1,E,2021,fall,28
+145,Kendell,Melarkey,kmelarkey40@google.nl,M,MAT,Engineering,CSS 221,Database 2,R,2019,fall,59
+147,Julian,Dripp,jdripp42@buzzfeed.com,M,IS,Engineering,MDE 102,Kazakh 1,E,2020,fall,36
+150,Harlan,Bodocs,hbodocs45@irs.gov,M,CS,Engineering,CSS 201,Algorithms 1,E,2020,fall,7
+154,Denice,Itscowics,ditscowics49@gov.uk,F,CS,Engineering,MDE 105,Turkish 1,E,2019,summer,4
+155,Lonnie,Ferri,lferri4a@nationalgeographic.com,F,CS,Engineering,CSS 202,Algorithms 2,R,2019,summer,13
+159,Ted,Lowseley,tlowseley4e@infoseek.co.jp,M,MAT,Engineering,MDE 101,English 1,E,2019,fall,46
+160,Hedvige,Shoebotham,hshoebotham4f@cornell.edu,F,MAT,Engineering,MDE 105,Turkish 1,E,2020,summer,87
+161,Sansone,Hallyburton,shallyburton4g@wsj.com,M,IS,Engineering,MDE 101,English 1,E,2020,summer,74
+162,Gena,Matczak,gmatczak4h@de.vu,F,IS,Engineering,CSS 202,Algorithms 2,R,2019,spring,57
+164,Obediah,Parsand,oparsand4j@lulu.com,M,MAT,Engineering,MDE 115,Turkish 2,R,2019,summer,48
+166,Skyler,Swinfen,sswinfen4l@unblog.fr,M,CS,Engineering,MAT 202,Probability and Statistics,R,2021,spring,19
+167,Fairfax,Torrent,ftorrent4m@list-manage.com,M,CS,Engineering,MAT 103,Linear algebra,E,2020,summer,34
+168,Elinore,Mildner,emildner4n@bloglovin.com,F,IS,Engineering,CSS 215,Programming abstractions,E,2019,summer,51
+169,Vidovik,Crann,vcrann4o@wired.com,M,MAT,Engineering,MDE 101,English 1,E,2019,fall,44
+171,Windham,Boothebie,wboothebie4q@163.com,M,CS,Engineering,CSS 102,Programming technologies,R,2019,summer,59
+172,Jackquelin,Asty,jasty4r@amazon.co.uk,F,IS,Engineering,CSS 102,Programming technologies,R,2020,summer,30
+173,Ross,Frew,rfrew4s@hostgator.com,M,IS,Engineering,CSS 202,Algorithms 2,R,2021,fall,72
+175,Jeannette,Gilbane,jgilbane4u@de.vu,F,CS,Engineering,MDE 101,English 1,R,2021,fall,21
+178,Horst,Popplestone,hpopplestone4x@php.net,M,CS,Engineering,MDE 111,English 2,R,2020,spring,83
+179,Kaye,Loxley,kloxley4y@yellowbook.com,F,MAT,Engineering,MDE 102,Kazakh 1,E,2021,spring,59
+180,Rooney,Mozzetti,rmozzetti4z@google.co.jp,M,MAT,Engineering,MDE 103,Kazakh 2,R,2021,summer,26
+183,Bogart,Tutsell,btutsell52@php.net,M,IS,Engineering,CSS 101,Fundamentals of programming,E,2021,spring,49
+185,Germain,Macallam,gmacallam54@smh.com.au,F,IS,Engineering,MDE 105,Turkish 1,R,2020,summer,1
+187,Bobette,Wibrow,bwibrow56@t-online.de,F,IS,Engineering,CSS 221,Database 2,R,2021,summer,29
+189,Del,Beteriss,dbeteriss58@washingtonpost.com,F,CS,Engineering,MDE 105,Turkish 1,E,2020,summer,89
+190,Aurel,Trime,atrime59@telegraph.co.uk,F,IS,Engineering,CSS 221,Database 2,R,2019,spring,40
+191,Brendon,Coulthard,bcoulthard5a@amazon.co.uk,M,IS,Engineering,MAT 202,Probability and Statistics,E,2021,fall,20
+192,Rodi,Salway,rsalway5b@state.tx.us,F,CS,Engineering,CSS 208,Physics,E,2021,summer,11
+193,Katerine,Keuntje,kkeuntje5c@china.com.cn,F,IS,Engineering,CSS 225,Web technologies,R,2020,summer,2
+194,Kendricks,Tunno,ktunno5d@exblog.jp,M,CS,Engineering,MAT 103,Linear algebra,E,2019,spring,62
+195,Billy,Mcsarry,bmcsarry5e@marketwatch.com,F,MAT,Engineering,CSS 221,Database 2,R,2020,summer,88
+196,Cher,Clever,cclever5f@so-net.ne.jp,F,MAT,Engineering,CSS 221,Database 2,R,2021,fall,41
+198,Crista,Trott,ctrott5h@furl.net,F,MAT,Engineering,MAT 102,Mathematics 2,E,2019,summer,7
+199,Valene,Schirok,vschirok5i@fc2.com,F,CS,Engineering,MAT 103,Linear algebra,E,2020,fall,11
+201,Horatio,Cooksey,hcooksey5k@163.com,M,CS,Engineering,MDE 115,Turkish 2,E,2020,fall,80
+203,Joyous,McGrae,jmcgrae5m@businesswire.com,F,MAT,Engineering,MDE 103,Kazakh 2,R,2019,fall,11
+206,Vladimir,Clancy,vclancy5p@elpais.com,M,IS,Engineering,MDE 101,English 1,E,2021,summer,17
+208,Sherri,Hanner,shanner5r@delicious.com,F,MAT,Engineering,MDE 101,English 1,E,2021,spring,32
+209,Gusti,Guerra,gguerra5s@bizjournals.com,F,IS,Engineering,CSS 101,Fundamentals of programming,E,2021,spring,4
+211,Marice,Gunthorp,mgunthorp5u@wikia.com,F,CS,Engineering,MAT 102,Mathematics 2,E,2019,spring,78
+213,Thedrick,Claibourn,tclaibourn5w@clickbank.net,M,CS,Engineering,MDE 105,Turkish 1,E,2019,summer,80
+214,Liza,Edworthy,ledworthy5x@last.fm,F,MAT,Engineering,CSS 225,Web technologies,R,2019,fall,23
+215,Stavro,Isitt,sisitt5y@yahoo.co.jp,M,CS,Engineering,MAT 103,Linear algebra,E,2021,spring,24
+216,Skylar,Ziemen,sziemen5z@imgur.com,M,IS,Engineering,CSS 225,Web technologies,R,2021,summer,72
+218,Christopher,Cubbin,ccubbin61@youku.com,M,CS,Engineering,CSS 208,Physics,E,2020,summer,68
+219,Perice,Beaman,pbeaman62@msn.com,M,CS,Engineering,MDE 111,English 2,R,2020,spring,64
+228,Bobbe,Gouldeby,bgouldeby6b@sohu.com,F,IS,Engineering,CSS 201,Algorithms 1,E,2021,spring,92
+230,Karia,Girtin,kgirtin6d@gravatar.com,F,MAT,Engineering,CSS 215,Programming abstractions,R,2020,spring,12
+231,Lillis,Philippault,lphilippault6e@quantcast.com,F,CS,Engineering,MDE 115,Turkish 2,E,2021,spring,50
+232,Moreen,Lackey,mlackey6f@prweb.com,F,MAT,Engineering,CSS 225,Web technologies,R,2021,spring,16
+235,Birk,Roscoe,broscoe6i@theglobeandmail.com,M,IS,Engineering,MDE 105,Turkish 1,R,2019,fall,50
+236,Carlie,Berka,cberka6j@php.net,M,CS,Engineering,MAT 105,Discrete math,R,2021,fall,70
+240,Carlen,Desforges,cdesforges6n@reddit.com,F,CS,Engineering,MDE 102,Kazakh 1,R,2020,spring,73
+241,Grange,Sorby,gsorby6o@wordpress.org,M,IS,Engineering,MDE 102,Kazakh 1,E,2020,spring,73
+242,Stephanus,Eagger,seagger6p@1688.com,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2019,summer,45
+243,Kerby,Gonnel,kgonnel6q@tuttocitta.it,M,CS,Engineering,CSS 210,Database 1,E,2020,summer,96
+244,Rosalie,Brownsmith,rbrownsmith6r@cdbaby.com,F,IS,Engineering,CSS 221,Database 2,R,2019,spring,42
+245,Stacee,Edgson,sedgson6s@nps.gov,F,CS,Engineering,MDE 102,Kazakh 1,R,2019,spring,1
+246,Beck,Darrington,bdarrington6t@foxnews.com,M,MAT,Engineering,CSS 208,Physics,R,2021,summer,12
+247,Rufe,Roddy,rroddy6u@istockphoto.com,M,IS,Engineering,CSS 210,Database 1,R,2019,summer,23
+248,Alick,Applewhaite,aapplewhaite6v@chronoengine.com,M,MAT,Engineering,CSS 210,Database 1,E,2019,summer,95
+252,Barbara,Dabell,bdabell6z@webmd.com,F,IS,Engineering,MDE 102,Kazakh 1,E,2019,summer,89
+253,Jourdain,D'eye,jdeye70@dion.ne.jp,M,IS,Engineering,CSS 102,Programming technologies,R,2019,spring,11
+254,Mady,Scroggie,mscroggie71@hud.gov,F,MAT,Engineering,MDE 115,Turkish 2,R,2019,summer,42
+255,Francklin,Cardenas,fcardenas72@whitehouse.gov,M,CS,Engineering,CSS 202,Algorithms 2,R,2019,fall,78
+257,Cordi,Kief,ckief74@about.me,F,MAT,Engineering,MDE 115,Turkish 2,R,2019,spring,19
+258,Jordan,Hugle,jhugle75@marriott.com,M,MAT,Engineering,MDE 101,English 1,E,2020,summer,95
+260,Davon,Pawnsford,dpawnsford77@domainmarket.com,M,MAT,Engineering,CSS 102,Programming technologies,E,2019,fall,44
+261,Dyana,Ervine,dervine78@myspace.com,F,CS,Engineering,CSS 221,Database 2,R,2021,spring,35
+262,Wendel,Drinkhill,wdrinkhill79@friendfeed.com,M,MAT,Engineering,MDE 103,Kazakh 2,R,2021,fall,77
+264,Ly,Ziemke,lziemke7b@wired.com,M,CS,Engineering,CSS 221,Database 2,R,2021,summer,85
+265,Morganne,Deeks,mdeeks7c@house.gov,F,MAT,Engineering,CSS 201,Algorithms 1,E,2020,fall,23
+266,Tyler,Frickey,tfrickey7d@msn.com,M,CS,Engineering,CSS 102,Programming technologies,R,2021,fall,74
+269,Jock,Grimsdell,jgrimsdell7g@51.la,M,MAT,Engineering,CSS 215,Programming abstractions,R,2020,spring,30
+271,Nap,McCurtin,nmccurtin7i@yahoo.com,M,MAT,Engineering,CSS 221,Database 2,R,2020,spring,20
+272,Carolynn,Dixon,cdixon7j@google.pl,F,MAT,Engineering,CSS 210,Database 1,E,2021,fall,24
+275,Ulrich,Christofor,uchristofor7m@ihg.com,M,MAT,Engineering,MAT 105,Discrete math,E,2020,summer,13
+276,Dorothy,Stranieri,dstranieri7n@china.com.cn,F,CS,Engineering,CSS 221,Database 2,R,2021,summer,15
+277,Berk,Moncreif,bmoncreif7o@google.nl,M,MAT,Engineering,MAT 105,Discrete math,E,2021,fall,98
+279,Barrie,Hoolaghan,bhoolaghan7q@macromedia.com,F,MAT,Engineering,CSS 225,Web technologies,R,2021,fall,22
+281,Iorgos,Beden,ibeden7s@wp.com,M,CS,Engineering,CSS 221,Database 2,R,2019,fall,38
+282,Phylis,Tooher,ptooher7t@storify.com,F,MAT,Engineering,CSS 210,Database 1,E,2020,summer,16
+284,Dorotea,Saffon,dsaffon7v@g.co,F,IS,Engineering,CSS 221,Database 2,R,2021,summer,50
+285,Mick,De Giorgis,mdegiorgis7w@blogger.com,M,CS,Engineering,MDE 101,English 1,R,2019,spring,47
+286,Marlin,Breitling,mbreitling7x@hhs.gov,M,MAT,Engineering,MAT 101,Mathematics 1,R,2019,summer,96
+287,Hall,Gibling,hgibling7y@toplist.cz,M,IS,Engineering,MAT 103,Linear algebra,E,2019,spring,12
+289,Gianna,Roust,groust80@europa.eu,F,MAT,Engineering,CSS 208,Physics,R,2021,fall,65
+290,Edgard,Hamelyn,ehamelyn81@state.gov,M,MAT,Engineering,MDE 103,Kazakh 2,R,2020,summer,54
+291,Peg,Sawley,psawley82@a8.net,F,IS,Engineering,CSS 202,Algorithms 2,R,2019,fall,48
+292,Nanny,Shillabeer,nshillabeer83@nhs.uk,F,MAT,Engineering,CSS 102,Programming technologies,E,2020,fall,45
+293,Jason,Wendover,jwendover84@github.io,M,CS,Engineering,MDE 115,Turkish 2,E,2021,summer,62
+294,Mischa,Jickells,mjickells85@businessweek.com,M,IS,Engineering,MDE 102,Kazakh 1,E,2019,fall,41
+296,Harwilll,Hellyar,hhellyar87@shareasale.com,M,IS,Engineering,CSS 208,Physics,E,2019,summer,4
+300,Jonathon,Helian,jhelian8b@tiny.cc,M,CS,Engineering,CSS 215,Programming abstractions,R,2019,summer,21
+303,Monte,Barford,mbarford8e@51.la,M,MAT,Engineering,MDE 105,Turkish 1,E,2021,fall,39
+305,Tabbitha,Riddall,triddall8g@i2i.jp,F,CS,Engineering,MDE 111,English 2,R,2020,spring,58
+307,Harbert,Bestar,hbestar8i@rambler.ru,M,MAT,Engineering,CSS 102,Programming technologies,E,2019,fall,24
+308,Averill,Corday,acorday8j@springer.com,M,MAT,Engineering,MDE 103,Kazakh 2,R,2020,spring,24
+311,Jean,Duffil,jduffil8m@163.com,M,CS,Engineering,MDE 101,English 1,R,2020,spring,30
+312,Wini,Dederich,wdederich8n@mapy.cz,F,CS,Engineering,CSS 202,Algorithms 2,R,2019,spring,64
+313,Vallie,Flory,vflory8o@opera.com,F,CS,Engineering,MAT 102,Mathematics 2,E,2021,summer,36
+314,Kasper,McRuvie,kmcruvie8p@dedecms.com,M,CS,Engineering,CSS 221,Database 2,R,2020,summer,36
+316,Vallie,Horder,vhorder8r@wisc.edu,F,CS,Engineering,MAT 103,Linear algebra,E,2021,fall,28
+317,Ivor,Bengtsson,ibengtsson8s@squarespace.com,M,IS,Engineering,CSS 225,Web technologies,R,2021,summer,27
+318,Sayre,Grinston,sgrinston8t@ifeng.com,M,MAT,Engineering,MDE 105,Turkish 1,E,2020,fall,11
+319,Ella,Teresse,eteresse8u@who.int,F,CS,Engineering,CSS 101,Fundamentals of programming,E,2021,fall,7
+321,Tillie,Iacomo,tiacomo8w@gnu.org,F,MAT,Engineering,MAT 102,Mathematics 2,E,2021,summer,60
+324,Cicely,Borer,cborer8z@npr.org,F,MAT,Engineering,MAT 105,Discrete math,E,2021,spring,38
+325,Allen,Aim,aaim90@sourceforge.net,M,IS,Engineering,CSS 102,Programming technologies,R,2021,spring,38
+326,Paloma,Pods,ppods91@paginegialle.it,F,MAT,Engineering,MDE 105,Turkish 1,E,2021,spring,11
+328,Hadlee,Senett,hsenett93@sina.com.cn,M,CS,Engineering,MDE 105,Turkish 1,E,2021,summer,15
+329,Tiena,Prisk,tprisk94@elpais.com,F,IS,Engineering,CSS 102,Programming technologies,R,2020,summer,3
+330,Lavinia,Chown,lchown95@digg.com,F,CS,Engineering,CSS 201,Algorithms 1,E,2020,summer,77
+331,Mariann,Eskrigg,meskrigg96@newyorker.com,F,CS,Engineering,MAT 103,Linear algebra,E,2021,spring,94
+334,Myer,Ranyard,mranyard99@drupal.org,M,IS,Engineering,CSS 202,Algorithms 2,R,2021,spring,56
+335,Ashlan,Botten,abotten9a@statcounter.com,F,MAT,Engineering,CSS 202,Algorithms 2,E,2021,spring,28
+336,Kenton,Simcoe,ksimcoe9b@weather.com,M,CS,Engineering,CSS 208,Physics,E,2021,fall,61
+337,Mable,Grishanin,mgrishanin9c@dion.ne.jp,F,MAT,Engineering,MAT 103,Linear algebra,R,2021,summer,80
+338,Carce,Dorrity,cdorrity9d@bigcartel.com,M,IS,Engineering,MDE 101,English 1,E,2020,fall,74
+339,Wallis,Kittless,wkittless9e@comsenz.com,M,MAT,Engineering,MDE 103,Kazakh 2,R,2021,summer,63
+341,Kellyann,Hatfull,khatfull9g@printfriendly.com,F,MAT,Engineering,CSS 225,Web technologies,R,2020,fall,34
+342,Neal,Pentecost,npentecost9h@blogtalkradio.com,M,IS,Engineering,CSS 202,Algorithms 2,R,2021,spring,33
+344,Valina,Luckes,vluckes9j@dmoz.org,F,MAT,Engineering,MAT 101,Mathematics 1,R,2021,fall,100
+345,Louie,Grisbrook,lgrisbrook9k@google.co.uk,M,IS,Engineering,CSS 101,Fundamentals of programming,E,2020,fall,91
+348,Norrie,Fern,nfern9n@biblegateway.com,M,MAT,Engineering,CSS 215,Programming abstractions,R,2019,spring,14
+350,Gonzalo,Pawlaczyk,gpawlaczyk9p@xing.com,M,IS,Engineering,MAT 202,Probability and Statistics,E,2020,fall,66
+351,Sophie,Noel,snoel9q@creativecommons.org,F,MAT,Engineering,MAT 101,Mathematics 1,R,2020,fall,46
+354,Wilbert,Reuss,wreuss9t@vistaprint.com,M,CS,Engineering,MAT 105,Discrete math,R,2020,spring,27
+356,Lewiss,Barents,lbarents9v@buzzfeed.com,M,MAT,Engineering,MDE 103,Kazakh 2,R,2020,spring,81
+357,Inez,Veare,iveare9w@census.gov,F,IS,Engineering,MDE 101,English 1,E,2021,fall,42
+358,Courtnay,Bartos,cbartos9x@opera.com,F,MAT,Engineering,CSS 101,Fundamentals of programming,E,2020,summer,77
+359,Hannah,Laverock,hlaverock9y@gmpg.org,F,CS,Engineering,MAT 105,Discrete math,R,2020,spring,20
+362,Bealle,McKeachie,bmckeachiea1@mapy.cz,M,CS,Engineering,MDE 103,Kazakh 2,R,2021,summer,10
+364,Obediah,Gandey,ogandeya3@wikia.com,M,CS,Engineering,MAT 103,Linear algebra,E,2021,fall,22
+366,Correy,Rosenfrucht,crosenfruchta5@chronoengine.com,F,CS,Engineering,CSS 202,Algorithms 2,R,2021,summer,84
+368,Walden,Lammin,wlammina7@nih.gov,M,MAT,Engineering,MAT 102,Mathematics 2,E,2019,summer,55
+370,Simona,A'Barrow,sabarrowa9@webs.com,F,IS,Engineering,MDE 103,Kazakh 2,R,2021,fall,20
+373,Putnem,Goldston,pgoldstonac@yale.edu,M,MAT,Engineering,MAT 103,Linear algebra,R,2021,summer,21
+374,Inigo,Simester,isimesterad@senate.gov,M,CS,Engineering,MAT 103,Linear algebra,E,2020,spring,98
+375,Stefano,Goakes,sgoakesae@woothemes.com,M,IS,Engineering,MDE 105,Turkish 1,R,2020,spring,20
+377,Evy,Peake,epeakeag@seattletimes.com,F,MAT,Engineering,CSS 101,Fundamentals of programming,E,2021,summer,47
+378,Sanders,Glynn,sglynnah@scribd.com,M,MAT,Engineering,MDE 103,Kazakh 2,R,2019,summer,34
+379,Celestyn,Laise,claiseai@reference.com,F,IS,Engineering,MDE 101,English 1,E,2020,summer,69
+380,Haskel,Corkill,hcorkillaj@un.org,M,CS,Engineering,CSS 225,Web technologies,E,2020,fall,28
+381,Reynard,Doole,rdooleak@slashdot.org,M,MAT,Engineering,MDE 101,English 1,E,2020,summer,2
+383,Lory,Highway,lhighwayam@narod.ru,F,IS,Engineering,MAT 103,Linear algebra,E,2019,spring,20
+384,Mitzi,Talks,mtalksan@berkeley.edu,F,CS,Engineering,MAT 202,Probability and Statistics,R,2020,fall,16
+385,Ole,Moorcroft,omoorcroftao@friendfeed.com,M,IS,Engineering,CSS 201,Algorithms 1,E,2020,summer,2
+386,Garrek,Newall,gnewallap@liveinternet.ru,M,IS,Engineering,MDE 103,Kazakh 2,R,2019,summer,99
+387,Danielle,Matyatin,dmatyatinaq@purevolume.com,F,IS,Engineering,CSS 225,Web technologies,R,2019,fall,99
+388,Stanly,Raye,srayear@fastcompany.com,M,MAT,Engineering,MAT 101,Mathematics 1,R,2019,fall,2
+391,Kacey,Altoft,kaltoftau@mit.edu,F,CS,Engineering,MAT 102,Mathematics 2,E,2020,spring,66
+392,Mick,Bracer,mbracerav@acquirethisname.com,M,CS,Engineering,CSS 101,Fundamentals of programming,E,2019,fall,75
+393,Foster,Ivanchin,fivanchinaw@reddit.com,M,IS,Engineering,MDE 115,Turkish 2,E,2019,summer,67
+394,Candida,Fleckney,cfleckneyax@shinystat.com,F,MAT,Engineering,MAT 101,Mathematics 1,R,2021,spring,92
+395,Benny,Dannohl,bdannohlay@joomla.org,M,MAT,Engineering,CSS 215,Programming abstractions,R,2020,spring,98
+396,Jefferey,Havis,jhavisaz@csmonitor.com,M,MAT,Engineering,CSS 102,Programming technologies,E,2019,fall,36
+397,Dennis,Hackey,dhackeyb0@eepurl.com,M,MAT,Engineering,MAT 105,Discrete math,E,2021,spring,15
+398,Genni,Loverock,gloverockb1@cnbc.com,F,IS,Engineering,CSS 101,Fundamentals of programming,E,2020,summer,56
+402,Aloise,Lorent,alorentb5@a8.net,F,IS,Engineering,CSS 201,Algorithms 1,E,2019,summer,73
+405,Shoshanna,Hellin,shellinb8@cafepress.com,F,IS,Engineering,MDE 115,Turkish 2,E,2020,summer,74
+406,Louis,Hardingham,lhardinghamb9@utexas.edu,M,IS,Engineering,MAT 103,Linear algebra,E,2019,spring,72
+408,Hank,Streather,hstreatherbb@wsj.com,M,MAT,Engineering,CSS 202,Algorithms 2,E,2019,spring,18
+409,Northrop,Goulthorp,ngoulthorpbc@nps.gov,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2019,fall,72
+410,Kerwin,Grey,kgreybd@friendfeed.com,M,CS,Engineering,MAT 103,Linear algebra,E,2019,summer,80
+411,Maude,Markwelley,mmarkwelleybe@wikispaces.com,F,MAT,Engineering,CSS 215,Programming abstractions,R,2020,fall,63
+412,Meredith,Axel,maxelbf@livejournal.com,F,MAT,Engineering,CSS 202,Algorithms 2,E,2020,spring,55
+419,Ebenezer,Davage,edavagebm@skype.com,M,CS,Engineering,MDE 105,Turkish 1,E,2021,fall,54
+420,Miguelita,Fend,mfendbn@reuters.com,F,CS,Engineering,MDE 103,Kazakh 2,R,2021,fall,83
+421,Tobi,Rockliffe,trockliffebo@bigcartel.com,F,CS,Engineering,MAT 101,Mathematics 1,E,2021,summer,57
+422,Yul,Jessopp,yjessoppbp@t.co,M,CS,Engineering,CSS 102,Programming technologies,R,2019,spring,22
+423,Florri,Ballefant,fballefantbq@vkontakte.ru,F,MAT,Engineering,CSS 202,Algorithms 2,E,2020,spring,37
+425,Jolee,Bolding,jboldingbs@nature.com,F,CS,Engineering,MDE 103,Kazakh 2,R,2020,fall,48
+427,Heddi,Schistl,hschistlbu@cmu.edu,F,MAT,Engineering,CSS 201,Algorithms 1,E,2019,fall,7
+431,Marie-ann,Drewes,mdrewesby@imageshack.us,F,MAT,Engineering,MAT 103,Linear algebra,R,2021,fall,94
+433,Parke,Clendening,pclendeningc0@bravesites.com,M,CS,Engineering,MAT 105,Discrete math,R,2019,fall,97
+434,Emmeline,Pawlaczyk,epawlaczykc1@icio.us,F,CS,Engineering,MDE 111,English 2,R,2020,spring,5
+435,Decca,Coleman,dcolemanc2@samsung.com,M,IS,Engineering,CSS 210,Database 1,R,2021,fall,22
+436,Porter,Bowden,pbowdenc3@si.edu,M,CS,Engineering,MAT 102,Mathematics 2,E,2021,fall,26
+440,Stacie,Creeghan,screeghanc7@symantec.com,F,CS,Engineering,CSS 215,Programming abstractions,R,2019,spring,58
+441,Van,MacNeice,vmacneicec8@smugmug.com,M,MAT,Engineering,MAT 103,Linear algebra,R,2020,summer,53
+442,Maximilian,Reims,mreimsc9@plala.or.jp,M,MAT,Engineering,MAT 101,Mathematics 1,R,2020,summer,26
+445,Lynna,Burchnall,lburchnallcc@ocn.ne.jp,F,MAT,Engineering,CSS 210,Database 1,E,2021,summer,24
+446,Calla,Tynemouth,ctynemouthcd@4shared.com,F,MAT,Engineering,CSS 225,Web technologies,R,2020,spring,11
+447,Stanford,Godier,sgodierce@mapy.cz,M,CS,Engineering,MDE 115,Turkish 2,E,2021,summer,80
+448,Megan,Halley,mhalleycf@harvard.edu,F,CS,Engineering,MDE 103,Kazakh 2,R,2021,summer,11
+449,Willetta,Poytress,wpoytresscg@addtoany.com,F,CS,Engineering,CSS 208,Physics,E,2020,spring,6
+450,Ferguson,Dowdney,fdowdneych@rakuten.co.jp,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2019,fall,95
+451,Barron,Cathie,bcathieci@360.cn,M,CS,Engineering,MAT 105,Discrete math,R,2020,spring,54
+453,Bartie,Elcock,belcockck@xrea.com,M,MAT,Engineering,CSS 201,Algorithms 1,E,2019,summer,9
+454,Agna,Schoular,aschoularcl@dot.gov,F,CS,Engineering,MAT 102,Mathematics 2,E,2021,spring,52
+455,Elspeth,Vasyunin,evasyunincm@vk.com,F,IS,Engineering,MAT 102,Mathematics 2,E,2019,summer,67
+458,Damara,Branston,dbranstoncp@tinyurl.com,F,IS,Engineering,CSS 215,Programming abstractions,E,2019,fall,73
+459,Leodora,Dunhill,ldunhillcq@t.co,F,IS,Engineering,MDE 105,Turkish 1,R,2019,spring,3
+460,Fraser,Rosier,frosiercr@geocities.com,M,IS,Engineering,CSS 208,Physics,E,2020,fall,24
+461,Anthiathia,Campa,acampacs@cbc.ca,F,IS,Engineering,CSS 101,Fundamentals of programming,E,2021,summer,43
+463,Garrard,Studman,gstudmancu@ihg.com,M,MAT,Engineering,MDE 102,Kazakh 1,E,2019,fall,82
+464,Aurore,Beckham,abeckhamcv@nature.com,F,MAT,Engineering,CSS 225,Web technologies,R,2019,spring,100
+467,Rubetta,Tottle,rtottlecy@dion.ne.jp,F,IS,Engineering,MDE 105,Turkish 1,R,2019,spring,76
+468,Lilias,Gooday,lgoodaycz@hibu.com,F,CS,Engineering,MDE 105,Turkish 1,E,2021,spring,5
+471,Say,Eccott,seccottd2@bravesites.com,M,MAT,Engineering,CSS 225,Web technologies,R,2019,fall,53
+473,Leonanie,Sedgwick,lsedgwickd4@toplist.cz,F,CS,Engineering,CSS 225,Web technologies,E,2021,spring,80
+474,Zedekiah,Bremley,zbremleyd5@admin.ch,M,MAT,Engineering,MAT 102,Mathematics 2,E,2020,fall,61
+475,Francklin,Lefort,flefortd6@netvibes.com,M,CS,Engineering,CSS 201,Algorithms 1,E,2019,summer,89
+476,Alonzo,Calcott,acalcottd7@ucla.edu,M,MAT,Engineering,MDE 101,English 1,E,2019,fall,19
+477,Orson,Gruczka,ogruczkad8@apple.com,M,CS,Engineering,CSS 201,Algorithms 1,E,2020,fall,9
+478,Marena,Westoff,mwestoffd9@51.la,F,IS,Engineering,CSS 221,Database 2,R,2019,spring,76
+480,Creight,Grugerr,cgrugerrdb@parallels.com,M,CS,Engineering,CSS 208,Physics,E,2020,spring,89
+481,Charlean,Pyrah,cpyrahdc@ebay.co.uk,F,IS,Engineering,MAT 103,Linear algebra,E,2019,summer,84
+482,Johannes,Dottridge,jdottridgedd@furl.net,M,MAT,Engineering,MDE 111,English 2,R,2019,summer,91
+483,Ulrick,Brandsma,ubrandsmade@uiuc.edu,M,IS,Engineering,MDE 105,Turkish 1,R,2020,spring,24
+485,Hew,Talby,htalbydg@google.es,M,IS,Engineering,MAT 103,Linear algebra,E,2021,spring,27
+488,Barthel,Ladd,bladddj@vkontakte.ru,M,MAT,Engineering,MAT 105,Discrete math,E,2021,summer,48
+490,Marleen,Brammall,mbrammalldl@dyndns.org,F,CS,Engineering,CSS 225,Web technologies,E,2020,summer,96
+491,Ema,Janusik,ejanusikdm@nba.com,F,CS,Engineering,CSS 101,Fundamentals of programming,E,2020,fall,68
+492,Burgess,Lauritzen,blauritzendn@earthlink.net,M,IS,Engineering,CSS 221,Database 2,R,2021,spring,71
+493,Riobard,Itzig,ritzigdo@statcounter.com,M,CS,Engineering,MDE 115,Turkish 2,E,2019,spring,57
+494,Ortensia,Corley,ocorleydp@live.com,F,MAT,Engineering,CSS 210,Database 1,E,2021,summer,71
+496,Barnabe,Kelledy,bkelledydr@ovh.net,M,IS,Engineering,CSS 202,Algorithms 2,R,2020,fall,17
+499,Dehlia,Pottinger,dpottingerdu@symantec.com,F,IS,Engineering,MAT 103,Linear algebra,E,2021,summer,98
+500,Deane,McCuffie,dmccuffiedv@booking.com,F,MAT,Engineering,MDE 115,Turkish 2,R,2019,summer,17
+1,Giavani,Cathersides,gcathersides0@vk.com,M,CS,Engineering,CSS 221,Database 2,R,2021,summer,98
+2,Pedro,Pigram,ppigram1@timesonline.co.uk,M,MAT,Engineering,CSS 210,Database 1,E,2019,spring,72
+6,Josy,Reeme,jreeme5@wsj.com,F,CS,Engineering,CSS 202,Algorithms 2,R,2020,fall,29
+9,Kincaid,Keiley,kkeiley8@nih.gov,M,MAT,Engineering,CSS 102,Programming technologies,E,2021,fall,9
+10,Jemie,Norgan,jnorgan9@reuters.com,F,MAT,Engineering,MAT 103,Linear algebra,R,2019,summer,98
+11,Damian,MacGillicuddy,dmacgillicuddya@prweb.com,M,IS,Engineering,CSS 208,Physics,E,2021,spring,17
+12,Herb,Simchenko,hsimchenkob@oracle.com,M,MAT,Engineering,CSS 208,Physics,R,2021,fall,95
+13,Judah,Bryenton,jbryentonc@dot.gov,M,MAT,Engineering,MAT 105,Discrete math,E,2020,spring,56
+15,Livy,Guite,lguitee@pinterest.com,F,IS,Engineering,MAT 105,Discrete math,E,2021,fall,96
+16,Perice,Downgate,pdowngatef@canalblog.com,M,CS,Engineering,MDE 103,Kazakh 2,R,2020,spring,36
+17,Helyn,Welford,hwelfordg@apache.org,F,CS,Engineering,MAT 105,Discrete math,R,2019,summer,57
+18,Jarrad,Lancaster,jlancasterh@delicious.com,M,IS,Engineering,MDE 105,Turkish 1,R,2021,fall,49
+19,Valery,Gimlet,vgimleti@creativecommons.org,F,IS,Engineering,CSS 221,Database 2,R,2019,summer,89
+20,Randy,Scotson,rscotsonj@youtu.be,F,MAT,Engineering,CSS 101,Fundamentals of programming,E,2019,fall,30
+22,Osborne,Squibb,osquibbl@nhs.uk,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2021,summer,68
+23,Hercule,Hardwich,hhardwichm@hud.gov,M,IS,Engineering,MAT 103,Linear algebra,E,2019,fall,33
+24,Ike,Maher,imahern@va.gov,M,MAT,Engineering,CSS 202,Algorithms 2,E,2020,summer,54
+25,Jane,Jee,jjeeo@wsj.com,F,MAT,Engineering,MDE 115,Turkish 2,R,2021,spring,42
+27,Crissie,Cornuau,ccornuauq@google.nl,F,CS,Engineering,CSS 221,Database 2,R,2020,fall,25
+28,Hallsy,Dougal,hdougalr@dmoz.org,M,MAT,Engineering,CSS 225,Web technologies,R,2019,summer,1
+30,Joseito,Sumpter,jsumptert@ft.com,M,MAT,Engineering,CSS 215,Programming abstractions,R,2021,summer,24
+31,Lurlene,Dykas,ldykasu@irs.gov,F,MAT,Engineering,MDE 105,Turkish 1,E,2019,summer,19
+32,Tabor,Deveril,tdeverilv@fotki.com,M,CS,Engineering,MDE 101,English 1,R,2019,fall,57
+33,Juana,Hillborne,jhillbornew@clickbank.net,F,IS,Engineering,CSS 225,Web technologies,R,2021,summer,52
+34,Odele,MacRanald,omacranaldx@miitbeian.gov.cn,F,MAT,Engineering,MDE 115,Turkish 2,R,2021,summer,39
+35,Skelly,Ellin,selliny@mail.ru,M,CS,Engineering,CSS 215,Programming abstractions,R,2021,summer,15
+36,Hedvig,Ogle,hoglez@independent.co.uk,F,MAT,Engineering,MAT 102,Mathematics 2,E,2021,fall,88
+37,Juline,MacShane,jmacshane10@ning.com,F,IS,Engineering,MDE 111,English 2,R,2019,spring,69
+39,Taffy,Mariolle,tmariolle12@wisc.edu,F,IS,Engineering,MDE 105,Turkish 1,R,2019,fall,50
+40,Janeczka,Whyley,jwhyley13@amazonaws.com,F,MAT,Engineering,CSS 202,Algorithms 2,E,2020,fall,76
+43,Kaspar,Jozef,kjozef16@state.tx.us,M,CS,Engineering,CSS 221,Database 2,R,2020,spring,97
+44,Simone,Bevar,sbevar17@t-online.de,M,IS,Engineering,MAT 103,Linear algebra,E,2020,spring,13
+46,Nellie,Wilce,nwilce19@fda.gov,F,IS,Engineering,CSS 102,Programming technologies,R,2020,summer,3
+48,Daniella,Crumb,dcrumb1b@cnbc.com,F,MAT,Engineering,MDE 101,English 1,E,2021,fall,75
+51,Susann,Elvins,selvins1e@zimbio.com,F,CS,Engineering,CSS 215,Programming abstractions,R,2020,fall,59
+52,Bernardo,Predohl,bpredohl1f@wired.com,M,MAT,Engineering,MAT 103,Linear algebra,R,2021,fall,91
+53,Damita,Dahmke,ddahmke1g@vimeo.com,F,CS,Engineering,CSS 215,Programming abstractions,R,2019,spring,48
+55,Callida,Jullian,cjullian1i@symantec.com,F,MAT,Engineering,MDE 111,English 2,R,2021,summer,14
+58,Vance,Juszczak,vjuszczak1l@go.com,M,MAT,Engineering,CSS 101,Fundamentals of programming,E,2020,fall,79
+59,Saundra,Girardi,sgirardi1m@eventbrite.com,M,CS,Engineering,MAT 103,Linear algebra,E,2019,summer,8
+60,Xenos,Shute,xshute1n@nyu.edu,M,MAT,Engineering,MDE 105,Turkish 1,E,2021,summer,45
+62,Charmine,Rastrick,crastrick1p@bandcamp.com,F,CS,Engineering,CSS 208,Physics,E,2019,summer,64
+65,Audrie,Ockleshaw,aockleshaw1s@fc2.com,F,IS,Engineering,MAT 105,Discrete math,E,2019,spring,41
+67,Homer,Rissen,hrissen1u@geocities.jp,M,IS,Engineering,CSS 208,Physics,E,2020,spring,48
+69,Carr,Ommundsen,commundsen1w@pcworld.com,M,CS,Engineering,MAT 101,Mathematics 1,E,2020,fall,36
+70,Olav,Dutton,odutton1x@timesonline.co.uk,M,MAT,Engineering,MAT 102,Mathematics 2,E,2020,fall,9
+71,Jacquelynn,Macbane,jmacbane1y@sbwire.com,F,IS,Engineering,MAT 202,Probability and Statistics,E,2019,fall,72
+73,Deanne,Leyshon,dleyshon20@1und1.de,F,CS,Engineering,CSS 208,Physics,E,2021,fall,78
+75,Forrest,Kerne,fkerne22@wikispaces.com,M,CS,Engineering,MDE 103,Kazakh 2,R,2019,summer,83
+76,Eva,Lince,elince23@wordpress.org,F,MAT,Engineering,CSS 215,Programming abstractions,R,2021,spring,61
+77,Osbourn,Van Halen,ovanhalen24@t.co,M,IS,Engineering,CSS 225,Web technologies,R,2019,summer,18
+78,Morly,Zecchinii,mzecchinii25@ow.ly,M,MAT,Engineering,CSS 208,Physics,R,2019,summer,69
+79,Augusto,Donegan,adonegan26@loc.gov,M,MAT,Engineering,MDE 101,English 1,E,2019,fall,71
+80,Eugene,D'Aguanno,edaguanno27@exblog.jp,M,CS,Engineering,MDE 115,Turkish 2,E,2019,spring,21
+81,Jolene,Trelevan,jtrelevan28@baidu.com,F,IS,Engineering,CSS 208,Physics,E,2020,fall,44
+82,Perry,Foxon,pfoxon29@forbes.com,M,MAT,Engineering,MDE 103,Kazakh 2,R,2019,spring,4
+86,Humberto,Matton,hmatton2d@comsenz.com,M,MAT,Engineering,MAT 102,Mathematics 2,E,2021,fall,4
+88,Pattie,Thonger,pthonger2f@cbsnews.com,M,IS,Engineering,MAT 105,Discrete math,E,2020,fall,42
+91,Antonius,Rain,arain2i@bbb.org,M,CS,Engineering,MDE 105,Turkish 1,E,2020,summer,30
+92,Hadleigh,Farguhar,hfarguhar2j@usda.gov,M,IS,Engineering,CSS 201,Algorithms 1,E,2021,fall,83
+94,Cynthy,Grishukov,cgrishukov2l@economist.com,F,CS,Engineering,MDE 115,Turkish 2,E,2020,summer,2
+95,Elvira,Bateman,ebateman2m@imgur.com,F,CS,Engineering,CSS 201,Algorithms 1,E,2021,summer,61
+97,Kissiah,O'Scollee,koscollee2o@squarespace.com,F,MAT,Engineering,MAT 103,Linear algebra,R,2020,summer,38
+99,Alix,Wonham,awonham2q@hhs.gov,F,IS,Engineering,CSS 208,Physics,E,2019,spring,90
+103,Rina,Skaif,rskaif2u@weather.com,F,CS,Engineering,CSS 210,Database 1,E,2021,summer,55
+104,Rufus,Isselee,risselee2v@networksolutions.com,M,CS,Engineering,CSS 101,Fundamentals of programming,E,2020,spring,7
+105,Sansone,Eatock,seatock2w@umich.edu,M,CS,Engineering,CSS 221,Database 2,R,2021,summer,15
+107,Derry,Crabtree,dcrabtree2y@networkadvertising.org,M,CS,Engineering,CSS 221,Database 2,R,2019,spring,59
+108,Melessa,Lohan,mlohan2z@imageshack.us,F,MAT,Engineering,MAT 103,Linear algebra,R,2021,fall,8
+110,Celestyna,Hiom,chiom31@feedburner.com,F,IS,Engineering,CSS 210,Database 1,R,2020,spring,36
+111,Buckie,Kobieriecki,bkobieriecki32@vk.com,M,CS,Engineering,CSS 208,Physics,E,2020,spring,89
+117,Hamil,Pynner,hpynner38@yolasite.com,M,CS,Engineering,MDE 103,Kazakh 2,R,2020,spring,74
+119,Adaline,Dinwoodie,adinwoodie3a@timesonline.co.uk,F,CS,Engineering,MAT 103,Linear algebra,E,2020,summer,67
+121,Denny,Blaiklock,dblaiklock3c@youku.com,M,IS,Engineering,MAT 102,Mathematics 2,E,2019,summer,70
+123,Nestor,Henrych,nhenrych3e@rambler.ru,M,CS,Engineering,MDE 115,Turkish 2,E,2019,summer,16
+124,Peter,Edelman,pedelman3f@paypal.com,M,MAT,Engineering,CSS 202,Algorithms 2,E,2021,fall,2
+125,Maurita,Ratie,mratie3g@bluehost.com,F,MAT,Engineering,MAT 202,Probability and Statistics,E,2020,spring,6
+126,Zahara,Renn,zrenn3h@dyndns.org,F,IS,Engineering,MAT 102,Mathematics 2,E,2020,summer,51
+127,Chaddie,Freshwater,cfreshwater3i@technorati.com,M,MAT,Engineering,CSS 225,Web technologies,R,2020,summer,99
+128,Scarlett,Wetton,swetton3j@sourceforge.net,F,IS,Engineering,MAT 103,Linear algebra,E,2019,fall,34
+130,Leeland,Doby,ldoby3l@fastcompany.com,M,CS,Engineering,CSS 215,Programming abstractions,R,2019,fall,18
+131,Teddy,Surfleet,tsurfleet3m@craigslist.org,M,IS,Engineering,CSS 208,Physics,E,2019,summer,27
+132,Petronia,Maingot,pmaingot3n@apple.com,F,MAT,Engineering,CSS 221,Database 2,R,2020,fall,73
+133,Alexandrina,Alvar,aalvar3o@parallels.com,F,CS,Engineering,CSS 102,Programming technologies,R,2020,spring,28
+134,Berkie,Ulyatt,bulyatt3p@thetimes.co.uk,M,MAT,Engineering,MDE 102,Kazakh 1,E,2020,summer,52
+135,Sharai,Spollen,sspollen3q@gov.uk,F,MAT,Engineering,CSS 208,Physics,R,2020,fall,1
+136,Pamelina,Affleck,paffleck3r@merriam-webster.com,F,CS,Engineering,MAT 202,Probability and Statistics,R,2021,fall,15
+138,Berky,McQuode,bmcquode3t@blogs.com,M,CS,Engineering,CSS 102,Programming technologies,R,2020,spring,39
+140,Beitris,Campion,bcampion3v@icio.us,F,IS,Engineering,MAT 105,Discrete math,E,2021,spring,56
+141,Ange,Sondon,asondon3w@google.ru,M,CS,Engineering,CSS 102,Programming technologies,R,2021,spring,26
+142,Stillmann,Bannester,sbannester3x@thetimes.co.uk,M,CS,Engineering,MDE 115,Turkish 2,E,2020,summer,43
+144,Bailie,Currer,bcurrer3z@flickr.com,M,IS,Engineering,MDE 103,Kazakh 2,R,2021,fall,85
+145,Kendell,Melarkey,kmelarkey40@google.nl,M,MAT,Engineering,MAT 102,Mathematics 2,E,2020,fall,48
+147,Julian,Dripp,jdripp42@buzzfeed.com,M,IS,Engineering,CSS 101,Fundamentals of programming,E,2020,spring,52
+148,Olivette,Sommerled,osommerled43@etsy.com,F,CS,Engineering,MDE 103,Kazakh 2,R,2020,spring,67
+150,Harlan,Bodocs,hbodocs45@irs.gov,M,CS,Engineering,CSS 201,Algorithms 1,E,2021,spring,40
+151,Ula,Towriss,utowriss46@nps.gov,F,CS,Engineering,MAT 202,Probability and Statistics,R,2019,summer,56
+152,Marys,Bend,mbend47@microsoft.com,F,IS,Engineering,CSS 201,Algorithms 1,E,2021,summer,16
+153,Ambrosius,Witard,awitard48@stanford.edu,M,IS,Engineering,CSS 201,Algorithms 1,E,2020,spring,20
+156,Heather,Cawthry,hcawthry4b@flavors.me,F,MAT,Engineering,MDE 111,English 2,R,2020,fall,24
+157,Devon,Leve,dleve4c@gmpg.org,F,MAT,Engineering,CSS 201,Algorithms 1,E,2019,summer,79
+158,Vincenz,Celler,vceller4d@163.com,M,IS,Engineering,MDE 102,Kazakh 1,E,2019,fall,63
+160,Hedvige,Shoebotham,hshoebotham4f@cornell.edu,F,MAT,Engineering,CSS 210,Database 1,E,2021,spring,78
+162,Gena,Matczak,gmatczak4h@de.vu,F,IS,Engineering,CSS 215,Programming abstractions,E,2019,fall,73
+163,Trefor,Mathivet,tmathivet4i@altervista.org,M,MAT,Engineering,MDE 102,Kazakh 1,E,2019,fall,16
+164,Obediah,Parsand,oparsand4j@lulu.com,M,MAT,Engineering,CSS 201,Algorithms 1,E,2019,spring,38
+165,Jennee,Duckering,jduckering4k@clickbank.net,F,MAT,Engineering,MDE 105,Turkish 1,E,2020,fall,90
+166,Skyler,Swinfen,sswinfen4l@unblog.fr,M,CS,Engineering,MAT 101,Mathematics 1,E,2020,fall,36
+167,Fairfax,Torrent,ftorrent4m@list-manage.com,M,CS,Engineering,CSS 208,Physics,E,2021,spring,35
+168,Elinore,Mildner,emildner4n@bloglovin.com,F,IS,Engineering,CSS 208,Physics,E,2021,fall,38
+170,Roarke,Mantram,rmantram4p@dion.ne.jp,M,IS,Engineering,MAT 102,Mathematics 2,E,2020,fall,28
+171,Windham,Boothebie,wboothebie4q@163.com,M,CS,Engineering,MDE 101,English 1,R,2019,spring,13
+172,Jackquelin,Asty,jasty4r@amazon.co.uk,F,IS,Engineering,MDE 115,Turkish 2,E,2021,summer,47
+174,Boot,Valens-Smith,bvalenssmith4t@utexas.edu,M,CS,Engineering,CSS 202,Algorithms 2,R,2019,spring,33
+175,Jeannette,Gilbane,jgilbane4u@de.vu,F,CS,Engineering,MAT 202,Probability and Statistics,R,2021,fall,32
+176,Suzette,Pomfrett,spomfrett4v@ocn.ne.jp,F,IS,Engineering,CSS 102,Programming technologies,R,2020,spring,52
+177,Charley,Blasoni,cblasoni4w@paypal.com,M,CS,Engineering,CSS 225,Web technologies,E,2019,summer,2
+178,Horst,Popplestone,hpopplestone4x@php.net,M,CS,Engineering,CSS 201,Algorithms 1,E,2019,fall,48
+179,Kaye,Loxley,kloxley4y@yellowbook.com,F,MAT,Engineering,CSS 102,Programming technologies,E,2019,fall,38
+182,Yule,Stempe,ystempe51@columbia.edu,M,CS,Engineering,CSS 215,Programming abstractions,R,2020,summer,75
+184,Maryjo,Flanagan,mflanagan53@virginia.edu,F,CS,Engineering,CSS 225,Web technologies,E,2021,summer,87
+186,Consuela,Royste,croyste55@abc.net.au,F,IS,Engineering,CSS 225,Web technologies,R,2019,fall,32
+187,Bobette,Wibrow,bwibrow56@t-online.de,F,IS,Engineering,MAT 101,Mathematics 1,E,2019,summer,36
+189,Del,Beteriss,dbeteriss58@washingtonpost.com,F,CS,Engineering,CSS 208,Physics,E,2020,summer,17
+190,Aurel,Trime,atrime59@telegraph.co.uk,F,IS,Engineering,MDE 105,Turkish 1,R,2021,spring,75
+191,Brendon,Coulthard,bcoulthard5a@amazon.co.uk,M,IS,Engineering,CSS 202,Algorithms 2,R,2019,fall,91
+192,Rodi,Salway,rsalway5b@state.tx.us,F,CS,Engineering,CSS 101,Fundamentals of programming,E,2019,summer,39
+193,Katerine,Keuntje,kkeuntje5c@china.com.cn,F,IS,Engineering,MAT 102,Mathematics 2,E,2019,spring,15
+195,Billy,Mcsarry,bmcsarry5e@marketwatch.com,F,MAT,Engineering,CSS 225,Web technologies,R,2021,summer,97
+200,Essa,Cridge,ecridge5j@wunderground.com,F,MAT,Engineering,MDE 102,Kazakh 1,E,2021,summer,81
+201,Horatio,Cooksey,hcooksey5k@163.com,M,CS,Engineering,MDE 101,English 1,R,2021,spring,95
+202,Phillip,Rushford,prushford5l@pagesperso-orange.fr,M,CS,Engineering,MAT 101,Mathematics 1,E,2020,summer,49
+203,Joyous,McGrae,jmcgrae5m@businesswire.com,F,MAT,Engineering,MAT 101,Mathematics 1,R,2021,spring,42
+204,Janet,Renihan,jrenihan5n@nydailynews.com,F,IS,Engineering,CSS 225,Web technologies,R,2019,spring,51
+208,Sherri,Hanner,shanner5r@delicious.com,F,MAT,Engineering,MAT 101,Mathematics 1,R,2021,summer,87
+210,Obed,Brock,obrock5t@un.org,M,MAT,Engineering,CSS 225,Web technologies,R,2020,spring,94
+211,Marice,Gunthorp,mgunthorp5u@wikia.com,F,CS,Engineering,MDE 103,Kazakh 2,R,2021,fall,99
+212,Kelby,Dorton,kdorton5v@independent.co.uk,M,IS,Engineering,MDE 115,Turkish 2,E,2020,fall,81
+213,Thedrick,Claibourn,tclaibourn5w@clickbank.net,M,CS,Engineering,MDE 111,English 2,R,2020,summer,45
+216,Skylar,Ziemen,sziemen5z@imgur.com,M,IS,Engineering,MAT 101,Mathematics 1,E,2021,summer,48
+219,Perice,Beaman,pbeaman62@msn.com,M,CS,Engineering,CSS 215,Programming abstractions,R,2019,spring,13
+220,Jdavie,Malicki,jmalicki63@weibo.com,M,CS,Engineering,MDE 105,Turkish 1,E,2020,fall,12
+221,Rowan,Gremane,rgremane64@networksolutions.com,M,MAT,Engineering,MDE 102,Kazakh 1,E,2021,summer,45
+223,Dom,Thomlinson,dthomlinson66@state.gov,M,IS,Engineering,CSS 210,Database 1,R,2020,spring,64
+224,Sigismund,Farriar,sfarriar67@ycombinator.com,M,CS,Engineering,CSS 215,Programming abstractions,R,2021,fall,29
+225,Caz,Pevreal,cpevreal68@google.com.hk,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2020,summer,78
+228,Bobbe,Gouldeby,bgouldeby6b@sohu.com,F,IS,Engineering,CSS 102,Programming technologies,R,2020,spring,65
+229,Tom,Surgeoner,tsurgeoner6c@pagesperso-orange.fr,M,IS,Engineering,MAT 202,Probability and Statistics,E,2020,fall,90
+230,Karia,Girtin,kgirtin6d@gravatar.com,F,MAT,Engineering,MAT 202,Probability and Statistics,E,2021,fall,3
+232,Moreen,Lackey,mlackey6f@prweb.com,F,MAT,Engineering,MAT 101,Mathematics 1,R,2019,spring,79
+233,Regan,Simes,rsimes6g@wiley.com,F,MAT,Engineering,MDE 115,Turkish 2,R,2021,spring,90
+235,Birk,Roscoe,broscoe6i@theglobeandmail.com,M,IS,Engineering,MDE 102,Kazakh 1,E,2020,summer,92
+236,Carlie,Berka,cberka6j@php.net,M,CS,Engineering,CSS 221,Database 2,R,2019,spring,73
+237,Taffy,McDonagh,tmcdonagh6k@odnoklassniki.ru,F,IS,Engineering,MAT 102,Mathematics 2,E,2021,summer,25
+239,Rolando,Brunelli,rbrunelli6m@cargocollective.com,M,MAT,Engineering,MDE 111,English 2,R,2021,spring,95
+240,Carlen,Desforges,cdesforges6n@reddit.com,F,CS,Engineering,CSS 208,Physics,E,2020,summer,45
+241,Grange,Sorby,gsorby6o@wordpress.org,M,IS,Engineering,CSS 225,Web technologies,R,2021,summer,9
+242,Stephanus,Eagger,seagger6p@1688.com,M,MAT,Engineering,CSS 208,Physics,R,2021,spring,65
+243,Kerby,Gonnel,kgonnel6q@tuttocitta.it,M,CS,Engineering,MDE 111,English 2,R,2021,spring,66
+244,Rosalie,Brownsmith,rbrownsmith6r@cdbaby.com,F,IS,Engineering,MDE 115,Turkish 2,E,2019,summer,34
+246,Beck,Darrington,bdarrington6t@foxnews.com,M,MAT,Engineering,MDE 111,English 2,R,2019,spring,51
+249,Mariya,Eldin,meldin6w@sourceforge.net,F,MAT,Engineering,CSS 215,Programming abstractions,R,2019,fall,90
+250,Angel,Samett,asamett6x@aboutads.info,F,IS,Engineering,MDE 115,Turkish 2,E,2019,fall,95
+252,Barbara,Dabell,bdabell6z@webmd.com,F,IS,Engineering,MAT 101,Mathematics 1,E,2020,summer,36
+254,Mady,Scroggie,mscroggie71@hud.gov,F,MAT,Engineering,MDE 111,English 2,R,2019,spring,26
+255,Francklin,Cardenas,fcardenas72@whitehouse.gov,M,CS,Engineering,CSS 201,Algorithms 1,E,2020,fall,95
+257,Cordi,Kief,ckief74@about.me,F,MAT,Engineering,MAT 202,Probability and Statistics,E,2021,spring,57
+259,Giacobo,MacAne,gmacane76@umn.edu,M,IS,Engineering,CSS 225,Web technologies,R,2020,summer,74
+260,Davon,Pawnsford,dpawnsford77@domainmarket.com,M,MAT,Engineering,MAT 102,Mathematics 2,E,2020,fall,48
+261,Dyana,Ervine,dervine78@myspace.com,F,CS,Engineering,MAT 105,Discrete math,R,2019,fall,48
+263,Irv,Mobius,imobius7a@globo.com,M,CS,Engineering,CSS 210,Database 1,E,2019,spring,87
+265,Morganne,Deeks,mdeeks7c@house.gov,F,MAT,Engineering,CSS 101,Fundamentals of programming,E,2020,summer,44
+266,Tyler,Frickey,tfrickey7d@msn.com,M,CS,Engineering,CSS 202,Algorithms 2,R,2020,fall,19
+268,Billy,Gawke,bgawke7f@yahoo.co.jp,F,IS,Engineering,MDE 103,Kazakh 2,R,2020,summer,31
+269,Jock,Grimsdell,jgrimsdell7g@51.la,M,MAT,Engineering,MDE 115,Turkish 2,R,2021,spring,59
+270,Merrel,D'Ambrosio,mdambrosio7h@joomla.org,M,MAT,Engineering,CSS 102,Programming technologies,E,2020,spring,64
+271,Nap,McCurtin,nmccurtin7i@yahoo.com,M,MAT,Engineering,CSS 102,Programming technologies,E,2021,fall,10
+274,Torr,Fremantle,tfremantle7l@trellian.com,M,CS,Engineering,CSS 208,Physics,E,2019,fall,52
+275,Ulrich,Christofor,uchristofor7m@ihg.com,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2021,fall,36
+277,Berk,Moncreif,bmoncreif7o@google.nl,M,MAT,Engineering,MDE 102,Kazakh 1,E,2019,summer,88
+278,Morgen,Westraw,mwestraw7p@blinklist.com,F,MAT,Engineering,MAT 101,Mathematics 1,R,2019,summer,58
+282,Phylis,Tooher,ptooher7t@storify.com,F,MAT,Engineering,MDE 105,Turkish 1,E,2021,summer,45
+283,Merrily,Cossem,mcossem7u@ameblo.jp,F,CS,Engineering,CSS 215,Programming abstractions,R,2020,spring,70
+284,Dorotea,Saffon,dsaffon7v@g.co,F,IS,Engineering,MDE 103,Kazakh 2,R,2020,spring,93
+285,Mick,De Giorgis,mdegiorgis7w@blogger.com,M,CS,Engineering,CSS 201,Algorithms 1,E,2021,fall,96
+286,Marlin,Breitling,mbreitling7x@hhs.gov,M,MAT,Engineering,CSS 210,Database 1,E,2020,fall,94
+287,Hall,Gibling,hgibling7y@toplist.cz,M,IS,Engineering,CSS 101,Fundamentals of programming,E,2020,summer,83
+288,Lucie,Davidovitch,ldavidovitch7z@engadget.com,F,MAT,Engineering,CSS 202,Algorithms 2,E,2019,spring,86
+290,Edgard,Hamelyn,ehamelyn81@state.gov,M,MAT,Engineering,MAT 103,Linear algebra,R,2020,fall,35
+291,Peg,Sawley,psawley82@a8.net,F,IS,Engineering,CSS 210,Database 1,R,2019,fall,4
+292,Nanny,Shillabeer,nshillabeer83@nhs.uk,F,MAT,Engineering,MDE 115,Turkish 2,R,2021,fall,86
+293,Jason,Wendover,jwendover84@github.io,M,CS,Engineering,MAT 101,Mathematics 1,E,2019,summer,23
+294,Mischa,Jickells,mjickells85@businessweek.com,M,IS,Engineering,MAT 101,Mathematics 1,E,2020,spring,48
+295,Cindi,Garvie,cgarvie86@bbb.org,F,MAT,Engineering,MDE 111,English 2,R,2020,summer,81
+296,Harwilll,Hellyar,hhellyar87@shareasale.com,M,IS,Engineering,MDE 105,Turkish 1,R,2020,fall,52
+297,Rebe,Paxton,rpaxton88@facebook.com,F,MAT,Engineering,MAT 102,Mathematics 2,E,2020,spring,97
+298,Hugues,Brolechan,hbrolechan89@discuz.net,M,CS,Engineering,MDE 101,English 1,R,2019,fall,19
+299,Karlik,McNalley,kmcnalley8a@harvard.edu,M,IS,Engineering,MAT 101,Mathematics 1,E,2019,fall,21
+300,Jonathon,Helian,jhelian8b@tiny.cc,M,CS,Engineering,MDE 111,English 2,R,2020,fall,7
+304,Bernarr,Northway,bnorthway8f@dedecms.com,M,CS,Engineering,MAT 105,Discrete math,R,2019,summer,100
+305,Tabbitha,Riddall,triddall8g@i2i.jp,F,CS,Engineering,CSS 202,Algorithms 2,R,2020,fall,1
+306,Royal,Crowch,rcrowch8h@psu.edu,M,MAT,Engineering,CSS 225,Web technologies,R,2020,spring,20
+309,Johnna,January,jjanuary8k@nih.gov,F,IS,Engineering,CSS 102,Programming technologies,R,2019,spring,92
+312,Wini,Dederich,wdederich8n@mapy.cz,F,CS,Engineering,CSS 225,Web technologies,E,2021,fall,58
+314,Kasper,McRuvie,kmcruvie8p@dedecms.com,M,CS,Engineering,CSS 210,Database 1,E,2020,summer,59
+316,Vallie,Horder,vhorder8r@wisc.edu,F,CS,Engineering,MAT 202,Probability and Statistics,R,2021,spring,72
+318,Sayre,Grinston,sgrinston8t@ifeng.com,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2019,summer,17
+319,Ella,Teresse,eteresse8u@who.int,F,CS,Engineering,CSS 208,Physics,E,2019,spring,58
+321,Tillie,Iacomo,tiacomo8w@gnu.org,F,MAT,Engineering,MAT 105,Discrete math,E,2021,spring,81
+322,Kassey,Seiter,kseiter8x@ask.com,F,IS,Engineering,MDE 103,Kazakh 2,R,2019,summer,40
+324,Cicely,Borer,cborer8z@npr.org,F,MAT,Engineering,CSS 201,Algorithms 1,E,2019,fall,45
+326,Paloma,Pods,ppods91@paginegialle.it,F,MAT,Engineering,MDE 115,Turkish 2,R,2020,fall,31
+328,Hadlee,Senett,hsenett93@sina.com.cn,M,CS,Engineering,MAT 102,Mathematics 2,E,2021,fall,24
+329,Tiena,Prisk,tprisk94@elpais.com,F,IS,Engineering,MDE 115,Turkish 2,E,2020,fall,98
+332,Jameson,Busby,jbusby97@nih.gov,M,CS,Engineering,MAT 102,Mathematics 2,E,2020,fall,40
+335,Ashlan,Botten,abotten9a@statcounter.com,F,MAT,Engineering,MDE 111,English 2,R,2021,fall,34
+337,Mable,Grishanin,mgrishanin9c@dion.ne.jp,F,MAT,Engineering,MDE 115,Turkish 2,R,2021,fall,46
+338,Carce,Dorrity,cdorrity9d@bigcartel.com,M,IS,Engineering,CSS 201,Algorithms 1,E,2019,summer,53
+339,Wallis,Kittless,wkittless9e@comsenz.com,M,MAT,Engineering,CSS 221,Database 2,R,2020,summer,20
+340,Rasla,Ivanikov,rivanikov9f@blogspot.com,F,IS,Engineering,CSS 101,Fundamentals of programming,E,2021,fall,76
+342,Neal,Pentecost,npentecost9h@blogtalkradio.com,M,IS,Engineering,CSS 202,Algorithms 2,R,2020,fall,2
+344,Valina,Luckes,vluckes9j@dmoz.org,F,MAT,Engineering,MDE 103,Kazakh 2,R,2021,fall,37
+345,Louie,Grisbrook,lgrisbrook9k@google.co.uk,M,IS,Engineering,CSS 102,Programming technologies,R,2020,summer,53
+347,Tildie,Possell,tpossell9m@tumblr.com,F,IS,Engineering,MDE 105,Turkish 1,R,2020,spring,8
+348,Norrie,Fern,nfern9n@biblegateway.com,M,MAT,Engineering,MAT 101,Mathematics 1,R,2020,summer,77
+349,Halli,Hatherall,hhatherall9o@biglobe.ne.jp,F,MAT,Engineering,CSS 215,Programming abstractions,R,2019,summer,2
+350,Gonzalo,Pawlaczyk,gpawlaczyk9p@xing.com,M,IS,Engineering,MAT 105,Discrete math,E,2021,fall,52
+352,Quinta,Renowden,qrenowden9r@tinypic.com,F,MAT,Engineering,CSS 208,Physics,R,2021,summer,87
+358,Courtnay,Bartos,cbartos9x@opera.com,F,MAT,Engineering,MAT 101,Mathematics 1,R,2021,spring,86
+360,Davon,Ditt,dditt9z@addtoany.com,M,CS,Engineering,MDE 111,English 2,R,2020,summer,48
+362,Bealle,McKeachie,bmckeachiea1@mapy.cz,M,CS,Engineering,CSS 221,Database 2,R,2021,fall,43
+363,Madel,Crackett,mcracketta2@creativecommons.org,F,IS,Engineering,MDE 101,English 1,E,2020,summer,75
+364,Obediah,Gandey,ogandeya3@wikia.com,M,CS,Engineering,MDE 105,Turkish 1,E,2019,spring,42
+365,Avictor,Skews,askewsa4@psu.edu,M,MAT,Engineering,CSS 215,Programming abstractions,R,2019,summer,55
+368,Walden,Lammin,wlammina7@nih.gov,M,MAT,Engineering,CSS 201,Algorithms 1,E,2020,spring,87
+370,Simona,A'Barrow,sabarrowa9@webs.com,F,IS,Engineering,CSS 215,Programming abstractions,E,2021,summer,20
+371,Ashton,McNeilley,amcneilleyaa@businessweek.com,M,MAT,Engineering,CSS 215,Programming abstractions,R,2021,spring,35
+373,Putnem,Goldston,pgoldstonac@yale.edu,M,MAT,Engineering,CSS 201,Algorithms 1,E,2020,spring,100
+375,Stefano,Goakes,sgoakesae@woothemes.com,M,IS,Engineering,CSS 102,Programming technologies,R,2019,fall,4
+378,Sanders,Glynn,sglynnah@scribd.com,M,MAT,Engineering,MAT 101,Mathematics 1,R,2020,summer,35
+379,Celestyn,Laise,claiseai@reference.com,F,IS,Engineering,MDE 105,Turkish 1,R,2020,fall,13
+380,Haskel,Corkill,hcorkillaj@un.org,M,CS,Engineering,CSS 202,Algorithms 2,R,2020,fall,100
+381,Reynard,Doole,rdooleak@slashdot.org,M,MAT,Engineering,CSS 202,Algorithms 2,E,2021,summer,11
+383,Lory,Highway,lhighwayam@narod.ru,F,IS,Engineering,CSS 208,Physics,E,2020,fall,86
+384,Mitzi,Talks,mtalksan@berkeley.edu,F,CS,Engineering,MAT 102,Mathematics 2,E,2020,summer,46
+385,Ole,Moorcroft,omoorcroftao@friendfeed.com,M,IS,Engineering,CSS 208,Physics,E,2021,fall,15
+386,Garrek,Newall,gnewallap@liveinternet.ru,M,IS,Engineering,MAT 102,Mathematics 2,E,2021,summer,87
+388,Stanly,Raye,srayear@fastcompany.com,M,MAT,Engineering,CSS 208,Physics,R,2019,fall,71
+391,Kacey,Altoft,kaltoftau@mit.edu,F,CS,Engineering,CSS 101,Fundamentals of programming,E,2020,spring,94
+392,Mick,Bracer,mbracerav@acquirethisname.com,M,CS,Engineering,MAT 101,Mathematics 1,E,2019,summer,85
+393,Foster,Ivanchin,fivanchinaw@reddit.com,M,IS,Engineering,CSS 221,Database 2,R,2020,spring,98
+396,Jefferey,Havis,jhavisaz@csmonitor.com,M,MAT,Engineering,MDE 103,Kazakh 2,R,2020,fall,84
+397,Dennis,Hackey,dhackeyb0@eepurl.com,M,MAT,Engineering,CSS 208,Physics,R,2019,spring,26
+399,Christabel,Yezafovich,cyezafovichb2@bizjournals.com,F,CS,Engineering,CSS 201,Algorithms 1,E,2021,spring,65
+402,Aloise,Lorent,alorentb5@a8.net,F,IS,Engineering,MDE 102,Kazakh 1,E,2020,summer,71
+403,Alexandra,Lansdowne,alansdowneb6@google.nl,F,CS,Engineering,CSS 201,Algorithms 1,E,2020,summer,56
+404,Alleen,Songist,asongistb7@example.com,F,IS,Engineering,MDE 101,English 1,E,2020,summer,34
+407,Karine,Soal,ksoalba@oakley.com,F,CS,Engineering,CSS 102,Programming technologies,R,2019,summer,93
+409,Northrop,Goulthorp,ngoulthorpbc@nps.gov,M,MAT,Engineering,MDE 105,Turkish 1,E,2019,fall,19
+410,Kerwin,Grey,kgreybd@friendfeed.com,M,CS,Engineering,MDE 111,English 2,R,2021,spring,9
+411,Maude,Markwelley,mmarkwelleybe@wikispaces.com,F,MAT,Engineering,MDE 102,Kazakh 1,E,2019,fall,27
+415,Haroun,Hales,hhalesbi@nifty.com,M,IS,Engineering,CSS 210,Database 1,R,2020,fall,85
+416,Neville,Ciccotti,nciccottibj@meetup.com,M,CS,Engineering,CSS 225,Web technologies,E,2019,summer,7
+417,Dennie,Burkett,dburkettbk@youtu.be,F,MAT,Engineering,MAT 101,Mathematics 1,R,2019,summer,35
+419,Ebenezer,Davage,edavagebm@skype.com,M,CS,Engineering,MAT 102,Mathematics 2,E,2021,fall,9
+420,Miguelita,Fend,mfendbn@reuters.com,F,CS,Engineering,MDE 102,Kazakh 1,R,2020,summer,42
+422,Yul,Jessopp,yjessoppbp@t.co,M,CS,Engineering,MAT 105,Discrete math,R,2020,fall,25
+423,Florri,Ballefant,fballefantbq@vkontakte.ru,F,MAT,Engineering,MAT 105,Discrete math,E,2020,fall,58
+424,Clim,Allnatt,callnattbr@whitehouse.gov,M,CS,Engineering,CSS 208,Physics,E,2019,spring,91
+425,Jolee,Bolding,jboldingbs@nature.com,F,CS,Engineering,CSS 221,Database 2,R,2019,summer,22
+426,Filippa,Dobbin,fdobbinbt@cocolog-nifty.com,F,MAT,Engineering,MDE 115,Turkish 2,R,2019,summer,32
+427,Heddi,Schistl,hschistlbu@cmu.edu,F,MAT,Engineering,MAT 105,Discrete math,E,2020,spring,16
+428,Ricard,Stag,rstagbv@merriam-webster.com,M,IS,Engineering,MAT 101,Mathematics 1,E,2019,fall,49
+429,Alfy,Mennithorp,amennithorpbw@yale.edu,M,IS,Engineering,CSS 215,Programming abstractions,E,2019,spring,21
+436,Porter,Bowden,pbowdenc3@si.edu,M,CS,Engineering,CSS 208,Physics,E,2020,spring,53
+439,Maxy,Noddles,mnoddlesc6@businesswire.com,F,CS,Engineering,CSS 102,Programming technologies,R,2020,summer,15
+441,Van,MacNeice,vmacneicec8@smugmug.com,M,MAT,Engineering,MDE 102,Kazakh 1,E,2020,fall,20
+445,Lynna,Burchnall,lburchnallcc@ocn.ne.jp,F,MAT,Engineering,CSS 202,Algorithms 2,E,2021,fall,62
+447,Stanford,Godier,sgodierce@mapy.cz,M,CS,Engineering,MAT 101,Mathematics 1,E,2020,fall,98
+450,Ferguson,Dowdney,fdowdneych@rakuten.co.jp,M,MAT,Engineering,MDE 102,Kazakh 1,E,2021,fall,61
+452,Eydie,Blackman,eblackmancj@google.es,F,IS,Engineering,MDE 111,English 2,R,2021,spring,35
+453,Bartie,Elcock,belcockck@xrea.com,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2021,spring,62
+455,Elspeth,Vasyunin,evasyunincm@vk.com,F,IS,Engineering,CSS 221,Database 2,R,2020,fall,34
+457,Lamond,Quaif,lquaifco@xrea.com,M,IS,Engineering,MDE 111,English 2,R,2021,summer,65
+458,Damara,Branston,dbranstoncp@tinyurl.com,F,IS,Engineering,MAT 103,Linear algebra,E,2019,spring,26
+459,Leodora,Dunhill,ldunhillcq@t.co,F,IS,Engineering,CSS 215,Programming abstractions,E,2021,spring,95
+460,Fraser,Rosier,frosiercr@geocities.com,M,IS,Engineering,CSS 101,Fundamentals of programming,E,2019,fall,51
+461,Anthiathia,Campa,acampacs@cbc.ca,F,IS,Engineering,MDE 111,English 2,R,2020,spring,63
+463,Garrard,Studman,gstudmancu@ihg.com,M,MAT,Engineering,MAT 105,Discrete math,E,2020,summer,45
+464,Aurore,Beckham,abeckhamcv@nature.com,F,MAT,Engineering,CSS 221,Database 2,R,2019,spring,26
+465,Bogart,Halcro,bhalcrocw@constantcontact.com,M,CS,Engineering,CSS 210,Database 1,E,2019,spring,11
+466,Wood,Bidewel,wbidewelcx@dion.ne.jp,M,CS,Engineering,MAT 102,Mathematics 2,E,2021,fall,93
+467,Rubetta,Tottle,rtottlecy@dion.ne.jp,F,IS,Engineering,CSS 208,Physics,E,2019,fall,10
+471,Say,Eccott,seccottd2@bravesites.com,M,MAT,Engineering,CSS 101,Fundamentals of programming,E,2021,spring,95
+472,Faythe,Del Castello,fdelcastellod3@about.com,F,IS,Engineering,CSS 225,Web technologies,R,2019,spring,25
+474,Zedekiah,Bremley,zbremleyd5@admin.ch,M,MAT,Engineering,MAT 102,Mathematics 2,E,2020,spring,7
+475,Francklin,Lefort,flefortd6@netvibes.com,M,CS,Engineering,CSS 215,Programming abstractions,R,2019,spring,42
+477,Orson,Gruczka,ogruczkad8@apple.com,M,CS,Engineering,CSS 225,Web technologies,E,2019,fall,71
+478,Marena,Westoff,mwestoffd9@51.la,F,IS,Engineering,MDE 105,Turkish 1,R,2019,summer,56
+479,Clarie,Cocking,ccockingda@163.com,F,IS,Engineering,MDE 111,English 2,R,2021,spring,72
+480,Creight,Grugerr,cgrugerrdb@parallels.com,M,CS,Engineering,MAT 101,Mathematics 1,E,2020,fall,69
+481,Charlean,Pyrah,cpyrahdc@ebay.co.uk,F,IS,Engineering,MAT 102,Mathematics 2,E,2020,summer,88
+482,Johannes,Dottridge,jdottridgedd@furl.net,M,MAT,Engineering,CSS 208,Physics,R,2021,fall,31
+485,Hew,Talby,htalbydg@google.es,M,IS,Engineering,CSS 201,Algorithms 1,E,2019,spring,53
+487,Sarita,Canham,scanhamdi@accuweather.com,F,CS,Engineering,CSS 225,Web technologies,E,2021,fall,14
+488,Barthel,Ladd,bladddj@vkontakte.ru,M,MAT,Engineering,MDE 101,English 1,E,2019,fall,74
+489,Rice,Adderley,radderleydk@shutterfly.com,M,IS,Engineering,MDE 102,Kazakh 1,E,2020,spring,31
+490,Marleen,Brammall,mbrammalldl@dyndns.org,F,CS,Engineering,MDE 102,Kazakh 1,R,2021,fall,100
+493,Riobard,Itzig,ritzigdo@statcounter.com,M,CS,Engineering,CSS 102,Programming technologies,R,2019,summer,68
+495,Tanya,Lehrer,tlehrerdq@friendfeed.com,F,CS,Engineering,CSS 101,Fundamentals of programming,E,2020,spring,74
+496,Barnabe,Kelledy,bkelledydr@ovh.net,M,IS,Engineering,MDE 111,English 2,R,2021,spring,82
+497,Constantina,Billington,cbillingtonds@icq.com,F,MAT,Engineering,CSS 102,Programming technologies,E,2021,summer,47
+498,Tanny,Figiovanni,tfigiovannidt@webs.com,M,IS,Engineering,MAT 202,Probability and Statistics,E,2019,fall,40
+499,Dehlia,Pottinger,dpottingerdu@symantec.com,F,IS,Engineering,CSS 101,Fundamentals of programming,E,2021,fall,56
+500,Deane,McCuffie,dmccuffiedv@booking.com,F,MAT,Engineering,CSS 102,Programming technologies,E,2020,spring,47
+5,Caresse,Gratten,cgratten4@baidu.com,F,MAT,Engineering,CSS 102,Programming technologies,E,2019,summer,56
+6,Josy,Reeme,jreeme5@wsj.com,F,CS,Engineering,MDE 105,Turkish 1,E,2019,summer,45
+8,Thornie,Puddin,tpuddin7@google.es,M,CS,Engineering,MDE 101,English 1,R,2020,spring,3
+9,Kincaid,Keiley,kkeiley8@nih.gov,M,MAT,Engineering,CSS 215,Programming abstractions,R,2019,spring,15
+11,Damian,MacGillicuddy,dmacgillicuddya@prweb.com,M,IS,Engineering,MAT 101,Mathematics 1,E,2021,fall,81
+12,Herb,Simchenko,hsimchenkob@oracle.com,M,MAT,Engineering,CSS 102,Programming technologies,E,2021,summer,3
+15,Livy,Guite,lguitee@pinterest.com,F,IS,Engineering,CSS 221,Database 2,R,2020,spring,25
+18,Jarrad,Lancaster,jlancasterh@delicious.com,M,IS,Engineering,CSS 101,Fundamentals of programming,E,2019,spring,63
+19,Valery,Gimlet,vgimleti@creativecommons.org,F,IS,Engineering,MDE 111,English 2,R,2019,summer,85
+20,Randy,Scotson,rscotsonj@youtu.be,F,MAT,Engineering,MDE 101,English 1,E,2021,summer,47
+21,Goddart,Kennerknecht,gkennerknechtk@51.la,M,MAT,Engineering,MDE 115,Turkish 2,R,2020,spring,76
+23,Hercule,Hardwich,hhardwichm@hud.gov,M,IS,Engineering,CSS 215,Programming abstractions,E,2019,spring,94
+25,Jane,Jee,jjeeo@wsj.com,F,MAT,Engineering,CSS 201,Algorithms 1,E,2019,summer,93
+26,Hyman,Cescoti,hcescotip@photobucket.com,M,CS,Engineering,CSS 210,Database 1,E,2019,spring,86
+27,Crissie,Cornuau,ccornuauq@google.nl,F,CS,Engineering,MDE 102,Kazakh 1,R,2019,fall,27
+32,Tabor,Deveril,tdeverilv@fotki.com,M,CS,Engineering,CSS 201,Algorithms 1,E,2019,summer,74
+35,Skelly,Ellin,selliny@mail.ru,M,CS,Engineering,CSS 215,Programming abstractions,R,2019,spring,79
+36,Hedvig,Ogle,hoglez@independent.co.uk,F,MAT,Engineering,CSS 202,Algorithms 2,E,2019,spring,97
+37,Juline,MacShane,jmacshane10@ning.com,F,IS,Engineering,MDE 115,Turkish 2,E,2020,fall,100
+38,Arv,Kobelt,akobelt11@google.com,M,MAT,Engineering,CSS 221,Database 2,R,2020,summer,20
+40,Janeczka,Whyley,jwhyley13@amazonaws.com,F,MAT,Engineering,MAT 102,Mathematics 2,E,2020,summer,38
+43,Kaspar,Jozef,kjozef16@state.tx.us,M,CS,Engineering,CSS 215,Programming abstractions,R,2021,spring,65
+44,Simone,Bevar,sbevar17@t-online.de,M,IS,Engineering,CSS 210,Database 1,R,2019,spring,20
+45,Gallagher,Parkin,gparkin18@de.vu,M,IS,Engineering,MAT 102,Mathematics 2,E,2021,summer,42
+46,Nellie,Wilce,nwilce19@fda.gov,F,IS,Engineering,CSS 201,Algorithms 1,E,2020,fall,20
+47,Janel,MacMenemy,jmacmenemy1a@bbc.co.uk,F,IS,Engineering,CSS 202,Algorithms 2,R,2019,fall,57
+49,Clark,Moens,cmoens1c@etsy.com,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2020,fall,84
+50,Alexia,Mainson,amainson1d@earthlink.net,F,CS,Engineering,MDE 105,Turkish 1,E,2021,spring,11
+51,Susann,Elvins,selvins1e@zimbio.com,F,CS,Engineering,MAT 101,Mathematics 1,E,2019,spring,61
+55,Callida,Jullian,cjullian1i@symantec.com,F,MAT,Engineering,CSS 201,Algorithms 1,E,2021,spring,56
+56,Benita,Grenshields,bgrenshields1j@ebay.com,F,IS,Engineering,MAT 102,Mathematics 2,E,2021,fall,37
+57,Konstantin,Woloschin,kwoloschin1k@google.ru,M,CS,Engineering,CSS 225,Web technologies,E,2021,spring,86
+58,Vance,Juszczak,vjuszczak1l@go.com,M,MAT,Engineering,MDE 111,English 2,R,2020,summer,78
+60,Xenos,Shute,xshute1n@nyu.edu,M,MAT,Engineering,MDE 102,Kazakh 1,E,2020,summer,50
+62,Charmine,Rastrick,crastrick1p@bandcamp.com,F,CS,Engineering,MAT 102,Mathematics 2,E,2021,summer,85
+64,Thomasa,Duberry,tduberry1r@uol.com.br,F,CS,Engineering,MAT 105,Discrete math,R,2020,fall,78
+65,Audrie,Ockleshaw,aockleshaw1s@fc2.com,F,IS,Engineering,MDE 102,Kazakh 1,E,2019,spring,63
+70,Olav,Dutton,odutton1x@timesonline.co.uk,M,MAT,Engineering,CSS 225,Web technologies,R,2019,fall,79
+71,Jacquelynn,Macbane,jmacbane1y@sbwire.com,F,IS,Engineering,MDE 105,Turkish 1,R,2020,spring,24
+73,Deanne,Leyshon,dleyshon20@1und1.de,F,CS,Engineering,MDE 103,Kazakh 2,R,2019,fall,85
+76,Eva,Lince,elince23@wordpress.org,F,MAT,Engineering,MAT 105,Discrete math,E,2020,spring,65
+77,Osbourn,Van Halen,ovanhalen24@t.co,M,IS,Engineering,CSS 102,Programming technologies,R,2021,spring,63
+78,Morly,Zecchinii,mzecchinii25@ow.ly,M,MAT,Engineering,MDE 105,Turkish 1,E,2021,fall,22
+79,Augusto,Donegan,adonegan26@loc.gov,M,MAT,Engineering,MDE 111,English 2,R,2019,spring,47
+81,Jolene,Trelevan,jtrelevan28@baidu.com,F,IS,Engineering,CSS 221,Database 2,R,2020,spring,36
+82,Perry,Foxon,pfoxon29@forbes.com,M,MAT,Engineering,CSS 210,Database 1,E,2021,fall,100
+83,Maryanne,Scrivens,mscrivens2a@kickstarter.com,F,CS,Engineering,MAT 105,Discrete math,R,2019,spring,18
+85,Marena,Faunch,mfaunch2c@apple.com,F,CS,Engineering,CSS 101,Fundamentals of programming,E,2019,spring,68
+87,Olag,Ogilvy,oogilvy2e@netvibes.com,M,IS,Engineering,CSS 208,Physics,E,2019,fall,95
+88,Pattie,Thonger,pthonger2f@cbsnews.com,M,IS,Engineering,MAT 202,Probability and Statistics,E,2019,fall,99
+90,Skye,Pringell,springell2h@fc2.com,M,CS,Engineering,MAT 202,Probability and Statistics,R,2019,fall,37
+92,Hadleigh,Farguhar,hfarguhar2j@usda.gov,M,IS,Engineering,MDE 111,English 2,R,2019,summer,83
+94,Cynthy,Grishukov,cgrishukov2l@economist.com,F,CS,Engineering,CSS 221,Database 2,R,2019,spring,2
+95,Elvira,Bateman,ebateman2m@imgur.com,F,CS,Engineering,MAT 202,Probability and Statistics,R,2019,spring,5
+97,Kissiah,O'Scollee,koscollee2o@squarespace.com,F,MAT,Engineering,MDE 115,Turkish 2,R,2020,spring,77
+98,Janela,Urian,jurian2p@parallels.com,F,IS,Engineering,CSS 202,Algorithms 2,R,2021,spring,93
+99,Alix,Wonham,awonham2q@hhs.gov,F,IS,Engineering,CSS 101,Fundamentals of programming,E,2021,fall,67
+100,Ruddie,Fryers,rfryers2r@engadget.com,M,IS,Engineering,MDE 103,Kazakh 2,R,2021,summer,52
+102,Ellyn,Loxly,eloxly2t@stanford.edu,F,IS,Engineering,MAT 101,Mathematics 1,E,2020,summer,50
+105,Sansone,Eatock,seatock2w@umich.edu,M,CS,Engineering,CSS 208,Physics,E,2019,summer,94
+106,Tracie,Kummerlowe,tkummerlowe2x@auda.org.au,M,MAT,Engineering,MDE 103,Kazakh 2,R,2021,summer,68
+107,Derry,Crabtree,dcrabtree2y@networkadvertising.org,M,CS,Engineering,MAT 202,Probability and Statistics,R,2019,summer,57
+109,Darrel,Sowersby,dsowersby30@fda.gov,M,IS,Engineering,MDE 111,English 2,R,2019,fall,40
+110,Celestyna,Hiom,chiom31@feedburner.com,F,IS,Engineering,MAT 105,Discrete math,E,2020,spring,30
+111,Buckie,Kobieriecki,bkobieriecki32@vk.com,M,CS,Engineering,MDE 102,Kazakh 1,R,2019,spring,85
+112,Carin,Clever,cclever33@slate.com,F,MAT,Engineering,MDE 111,English 2,R,2021,spring,76
+113,Roseanne,Houseago,rhouseago34@live.com,F,CS,Engineering,MDE 105,Turkish 1,E,2019,summer,70
+117,Hamil,Pynner,hpynner38@yolasite.com,M,CS,Engineering,MAT 202,Probability and Statistics,R,2020,fall,78
+118,Amalle,Ratchford,aratchford39@biglobe.ne.jp,F,MAT,Engineering,MDE 105,Turkish 1,E,2021,fall,58
+119,Adaline,Dinwoodie,adinwoodie3a@timesonline.co.uk,F,CS,Engineering,CSS 225,Web technologies,E,2021,fall,40
+120,Deedee,Packwood,dpackwood3b@dell.com,F,CS,Engineering,CSS 225,Web technologies,E,2021,fall,91
+125,Maurita,Ratie,mratie3g@bluehost.com,F,MAT,Engineering,CSS 102,Programming technologies,E,2021,summer,61
+126,Zahara,Renn,zrenn3h@dyndns.org,F,IS,Engineering,MDE 105,Turkish 1,R,2020,fall,6
+127,Chaddie,Freshwater,cfreshwater3i@technorati.com,M,MAT,Engineering,CSS 215,Programming abstractions,R,2021,fall,34
+130,Leeland,Doby,ldoby3l@fastcompany.com,M,CS,Engineering,CSS 225,Web technologies,E,2019,fall,59
+131,Teddy,Surfleet,tsurfleet3m@craigslist.org,M,IS,Engineering,CSS 202,Algorithms 2,R,2019,spring,38
+132,Petronia,Maingot,pmaingot3n@apple.com,F,MAT,Engineering,CSS 221,Database 2,R,2019,summer,77
+135,Sharai,Spollen,sspollen3q@gov.uk,F,MAT,Engineering,MAT 101,Mathematics 1,R,2019,fall,11
+136,Pamelina,Affleck,paffleck3r@merriam-webster.com,F,CS,Engineering,MDE 103,Kazakh 2,R,2020,summer,24
+137,Rorke,Ascrofte,rascrofte3s@acquirethisname.com,M,MAT,Engineering,CSS 101,Fundamentals of programming,E,2019,summer,4
+138,Berky,McQuode,bmcquode3t@blogs.com,M,CS,Engineering,CSS 215,Programming abstractions,R,2020,summer,82
+139,Mitch,Deetch,mdeetch3u@va.gov,M,IS,Engineering,MAT 102,Mathematics 2,E,2021,fall,74
+140,Beitris,Campion,bcampion3v@icio.us,F,IS,Engineering,MDE 101,English 1,E,2020,summer,8
+141,Ange,Sondon,asondon3w@google.ru,M,CS,Engineering,CSS 210,Database 1,E,2021,summer,84
+143,Burton,Chivrall,bchivrall3y@eepurl.com,M,CS,Engineering,MAT 103,Linear algebra,E,2020,fall,70
+144,Bailie,Currer,bcurrer3z@flickr.com,M,IS,Engineering,MDE 111,English 2,R,2020,summer,85
+148,Olivette,Sommerled,osommerled43@etsy.com,F,CS,Engineering,CSS 201,Algorithms 1,E,2021,summer,16
+150,Harlan,Bodocs,hbodocs45@irs.gov,M,CS,Engineering,CSS 225,Web technologies,E,2021,spring,21
+152,Marys,Bend,mbend47@microsoft.com,F,IS,Engineering,CSS 208,Physics,E,2019,spring,73
+154,Denice,Itscowics,ditscowics49@gov.uk,F,CS,Engineering,MDE 115,Turkish 2,E,2019,spring,7
+156,Heather,Cawthry,hcawthry4b@flavors.me,F,MAT,Engineering,MAT 101,Mathematics 1,R,2020,summer,18
+159,Ted,Lowseley,tlowseley4e@infoseek.co.jp,M,MAT,Engineering,CSS 208,Physics,R,2021,summer,61
+160,Hedvige,Shoebotham,hshoebotham4f@cornell.edu,F,MAT,Engineering,MAT 102,Mathematics 2,E,2021,fall,6
+161,Sansone,Hallyburton,shallyburton4g@wsj.com,M,IS,Engineering,MDE 105,Turkish 1,R,2020,fall,53
+162,Gena,Matczak,gmatczak4h@de.vu,F,IS,Engineering,MAT 102,Mathematics 2,E,2019,spring,50
+163,Trefor,Mathivet,tmathivet4i@altervista.org,M,MAT,Engineering,CSS 201,Algorithms 1,E,2019,fall,65
+166,Skyler,Swinfen,sswinfen4l@unblog.fr,M,CS,Engineering,CSS 202,Algorithms 2,R,2020,spring,5
+167,Fairfax,Torrent,ftorrent4m@list-manage.com,M,CS,Engineering,CSS 215,Programming abstractions,R,2021,spring,96
+169,Vidovik,Crann,vcrann4o@wired.com,M,MAT,Engineering,CSS 225,Web technologies,R,2021,fall,17
+170,Roarke,Mantram,rmantram4p@dion.ne.jp,M,IS,Engineering,CSS 202,Algorithms 2,R,2020,fall,49
+171,Windham,Boothebie,wboothebie4q@163.com,M,CS,Engineering,MDE 105,Turkish 1,E,2020,summer,90
+173,Ross,Frew,rfrew4s@hostgator.com,M,IS,Engineering,CSS 215,Programming abstractions,E,2020,spring,99
+174,Boot,Valens-Smith,bvalenssmith4t@utexas.edu,M,CS,Engineering,MAT 102,Mathematics 2,E,2019,spring,16
+176,Suzette,Pomfrett,spomfrett4v@ocn.ne.jp,F,IS,Engineering,CSS 201,Algorithms 1,E,2020,fall,89
+177,Charley,Blasoni,cblasoni4w@paypal.com,M,CS,Engineering,MDE 115,Turkish 2,E,2020,spring,44
+178,Horst,Popplestone,hpopplestone4x@php.net,M,CS,Engineering,CSS 102,Programming technologies,R,2019,fall,35
+182,Yule,Stempe,ystempe51@columbia.edu,M,CS,Engineering,MDE 103,Kazakh 2,R,2020,fall,26
+185,Germain,Macallam,gmacallam54@smh.com.au,F,IS,Engineering,MAT 202,Probability and Statistics,E,2019,spring,94
+187,Bobette,Wibrow,bwibrow56@t-online.de,F,IS,Engineering,CSS 225,Web technologies,R,2019,summer,7
+188,Demott,Bilborough,dbilborough57@miibeian.gov.cn,M,CS,Engineering,MAT 103,Linear algebra,E,2021,spring,75
+189,Del,Beteriss,dbeteriss58@washingtonpost.com,F,CS,Engineering,MDE 115,Turkish 2,E,2019,summer,47
+190,Aurel,Trime,atrime59@telegraph.co.uk,F,IS,Engineering,CSS 101,Fundamentals of programming,E,2019,summer,55
+193,Katerine,Keuntje,kkeuntje5c@china.com.cn,F,IS,Engineering,MDE 103,Kazakh 2,R,2021,spring,60
+195,Billy,Mcsarry,bmcsarry5e@marketwatch.com,F,MAT,Engineering,CSS 225,Web technologies,R,2019,fall,43
+196,Cher,Clever,cclever5f@so-net.ne.jp,F,MAT,Engineering,MDE 103,Kazakh 2,R,2019,summer,45
+197,Cord,Lower,clower5g@redcross.org,M,CS,Engineering,CSS 102,Programming technologies,R,2021,fall,40
+198,Crista,Trott,ctrott5h@furl.net,F,MAT,Engineering,CSS 225,Web technologies,R,2020,spring,9
+201,Horatio,Cooksey,hcooksey5k@163.com,M,CS,Engineering,CSS 202,Algorithms 2,R,2019,summer,22
+207,Alvina,Bryde,abryde5q@chronoengine.com,F,CS,Engineering,CSS 221,Database 2,R,2020,summer,28
+208,Sherri,Hanner,shanner5r@delicious.com,F,MAT,Engineering,CSS 201,Algorithms 1,E,2020,spring,43
+209,Gusti,Guerra,gguerra5s@bizjournals.com,F,IS,Engineering,MAT 105,Discrete math,E,2019,fall,27
+210,Obed,Brock,obrock5t@un.org,M,MAT,Engineering,MAT 105,Discrete math,E,2021,summer,51
+211,Marice,Gunthorp,mgunthorp5u@wikia.com,F,CS,Engineering,MDE 103,Kazakh 2,R,2019,fall,79
+212,Kelby,Dorton,kdorton5v@independent.co.uk,M,IS,Engineering,CSS 225,Web technologies,R,2021,spring,10
+213,Thedrick,Claibourn,tclaibourn5w@clickbank.net,M,CS,Engineering,MAT 102,Mathematics 2,E,2019,fall,95
+217,Reilly,Masic,rmasic60@free.fr,M,IS,Engineering,MDE 111,English 2,R,2020,fall,100
+218,Christopher,Cubbin,ccubbin61@youku.com,M,CS,Engineering,CSS 201,Algorithms 1,E,2019,fall,92
+219,Perice,Beaman,pbeaman62@msn.com,M,CS,Engineering,MDE 115,Turkish 2,E,2020,spring,75
+221,Rowan,Gremane,rgremane64@networksolutions.com,M,MAT,Engineering,MDE 102,Kazakh 1,E,2019,fall,34
+222,Gage,Bootell,gbootell65@ucsd.edu,M,IS,Engineering,MAT 202,Probability and Statistics,E,2021,summer,30
+223,Dom,Thomlinson,dthomlinson66@state.gov,M,IS,Engineering,MAT 202,Probability and Statistics,E,2019,spring,83
+225,Caz,Pevreal,cpevreal68@google.com.hk,M,MAT,Engineering,MDE 101,English 1,E,2021,spring,20
+226,Hedy,Scatcher,hscatcher69@google.com.br,F,IS,Engineering,CSS 221,Database 2,R,2020,fall,69
+227,Kalinda,Grayshan,kgrayshan6a@people.com.cn,F,CS,Engineering,MAT 202,Probability and Statistics,R,2020,fall,42
+228,Bobbe,Gouldeby,bgouldeby6b@sohu.com,F,IS,Engineering,CSS 102,Programming technologies,R,2021,summer,33
+230,Karia,Girtin,kgirtin6d@gravatar.com,F,MAT,Engineering,MDE 103,Kazakh 2,R,2020,spring,67
+231,Lillis,Philippault,lphilippault6e@quantcast.com,F,CS,Engineering,MDE 111,English 2,R,2021,fall,51
+233,Regan,Simes,rsimes6g@wiley.com,F,MAT,Engineering,MDE 111,English 2,R,2021,spring,27
+235,Birk,Roscoe,broscoe6i@theglobeandmail.com,M,IS,Engineering,MAT 202,Probability and Statistics,E,2020,spring,92
+236,Carlie,Berka,cberka6j@php.net,M,CS,Engineering,MDE 103,Kazakh 2,R,2020,spring,86
+237,Taffy,McDonagh,tmcdonagh6k@odnoklassniki.ru,F,IS,Engineering,MDE 111,English 2,R,2019,spring,32
+238,Noah,Hearon,nhearon6l@microsoft.com,M,IS,Engineering,CSS 208,Physics,E,2020,spring,100
+239,Rolando,Brunelli,rbrunelli6m@cargocollective.com,M,MAT,Engineering,CSS 221,Database 2,R,2021,spring,1
+242,Stephanus,Eagger,seagger6p@1688.com,M,MAT,Engineering,CSS 102,Programming technologies,E,2020,summer,44
+243,Kerby,Gonnel,kgonnel6q@tuttocitta.it,M,CS,Engineering,CSS 215,Programming abstractions,R,2021,fall,80
+244,Rosalie,Brownsmith,rbrownsmith6r@cdbaby.com,F,IS,Engineering,CSS 208,Physics,E,2021,fall,35
+245,Stacee,Edgson,sedgson6s@nps.gov,F,CS,Engineering,MAT 101,Mathematics 1,E,2020,spring,63
+247,Rufe,Roddy,rroddy6u@istockphoto.com,M,IS,Engineering,CSS 215,Programming abstractions,E,2019,fall,29
+249,Mariya,Eldin,meldin6w@sourceforge.net,F,MAT,Engineering,CSS 221,Database 2,R,2019,spring,62
+251,Stephi,Nitti,snitti6y@example.com,F,MAT,Engineering,MDE 105,Turkish 1,E,2021,fall,3
+256,Von,Fairest,vfairest73@macromedia.com,M,CS,Engineering,MAT 101,Mathematics 1,E,2019,summer,47
+257,Cordi,Kief,ckief74@about.me,F,MAT,Engineering,MAT 103,Linear algebra,R,2020,spring,34
+262,Wendel,Drinkhill,wdrinkhill79@friendfeed.com,M,MAT,Engineering,CSS 221,Database 2,R,2020,summer,34
+263,Irv,Mobius,imobius7a@globo.com,M,CS,Engineering,MDE 102,Kazakh 1,R,2019,fall,88
+264,Ly,Ziemke,lziemke7b@wired.com,M,CS,Engineering,MAT 103,Linear algebra,E,2019,fall,60
+265,Morganne,Deeks,mdeeks7c@house.gov,F,MAT,Engineering,MDE 103,Kazakh 2,R,2020,spring,97
+266,Tyler,Frickey,tfrickey7d@msn.com,M,CS,Engineering,MAT 202,Probability and Statistics,R,2019,fall,9
+268,Billy,Gawke,bgawke7f@yahoo.co.jp,F,IS,Engineering,CSS 225,Web technologies,R,2020,spring,21
+269,Jock,Grimsdell,jgrimsdell7g@51.la,M,MAT,Engineering,MDE 111,English 2,R,2021,spring,69
+270,Merrel,D'Ambrosio,mdambrosio7h@joomla.org,M,MAT,Engineering,MDE 105,Turkish 1,E,2021,summer,28
+271,Nap,McCurtin,nmccurtin7i@yahoo.com,M,MAT,Engineering,MDE 101,English 1,E,2020,spring,6
+272,Carolynn,Dixon,cdixon7j@google.pl,F,MAT,Engineering,MDE 111,English 2,R,2020,spring,10
+277,Berk,Moncreif,bmoncreif7o@google.nl,M,MAT,Engineering,MDE 115,Turkish 2,R,2019,fall,33
+281,Iorgos,Beden,ibeden7s@wp.com,M,CS,Engineering,MDE 111,English 2,R,2020,summer,40
+282,Phylis,Tooher,ptooher7t@storify.com,F,MAT,Engineering,MDE 115,Turkish 2,R,2020,spring,12
+283,Merrily,Cossem,mcossem7u@ameblo.jp,F,CS,Engineering,CSS 201,Algorithms 1,E,2019,summer,55
+284,Dorotea,Saffon,dsaffon7v@g.co,F,IS,Engineering,MDE 101,English 1,E,2019,fall,90
+285,Mick,De Giorgis,mdegiorgis7w@blogger.com,M,CS,Engineering,CSS 102,Programming technologies,R,2020,fall,97
+287,Hall,Gibling,hgibling7y@toplist.cz,M,IS,Engineering,CSS 210,Database 1,R,2021,summer,91
+288,Lucie,Davidovitch,ldavidovitch7z@engadget.com,F,MAT,Engineering,MAT 102,Mathematics 2,E,2020,fall,10
+289,Gianna,Roust,groust80@europa.eu,F,MAT,Engineering,CSS 201,Algorithms 1,E,2020,spring,46
+291,Peg,Sawley,psawley82@a8.net,F,IS,Engineering,MDE 103,Kazakh 2,R,2020,summer,86
+292,Nanny,Shillabeer,nshillabeer83@nhs.uk,F,MAT,Engineering,MAT 105,Discrete math,E,2020,fall,48
+295,Cindi,Garvie,cgarvie86@bbb.org,F,MAT,Engineering,MAT 101,Mathematics 1,R,2020,summer,57
+297,Rebe,Paxton,rpaxton88@facebook.com,F,MAT,Engineering,MDE 105,Turkish 1,E,2020,spring,74
+298,Hugues,Brolechan,hbrolechan89@discuz.net,M,CS,Engineering,CSS 215,Programming abstractions,R,2020,summer,52
+299,Karlik,McNalley,kmcnalley8a@harvard.edu,M,IS,Engineering,MAT 101,Mathematics 1,E,2019,spring,89
+301,Emmalynn,Goulthorp,egoulthorp8c@utexas.edu,F,CS,Engineering,MAT 101,Mathematics 1,E,2020,summer,66
+302,Ethelyn,Burgett,eburgett8d@unblog.fr,F,MAT,Engineering,MDE 111,English 2,R,2019,spring,73
+303,Monte,Barford,mbarford8e@51.la,M,MAT,Engineering,CSS 201,Algorithms 1,E,2020,fall,96
+304,Bernarr,Northway,bnorthway8f@dedecms.com,M,CS,Engineering,CSS 215,Programming abstractions,R,2021,fall,67
+306,Royal,Crowch,rcrowch8h@psu.edu,M,MAT,Engineering,MAT 101,Mathematics 1,R,2021,fall,96
+309,Johnna,January,jjanuary8k@nih.gov,F,IS,Engineering,MDE 111,English 2,R,2020,spring,26
+310,Jan,Garrettson,jgarrettson8l@simplemachines.org,M,CS,Engineering,CSS 102,Programming technologies,R,2019,summer,89
+311,Jean,Duffil,jduffil8m@163.com,M,CS,Engineering,MAT 202,Probability and Statistics,R,2019,fall,71
+312,Wini,Dederich,wdederich8n@mapy.cz,F,CS,Engineering,MDE 105,Turkish 1,E,2019,fall,33
+313,Vallie,Flory,vflory8o@opera.com,F,CS,Engineering,CSS 208,Physics,E,2019,spring,8
+314,Kasper,McRuvie,kmcruvie8p@dedecms.com,M,CS,Engineering,CSS 215,Programming abstractions,R,2020,spring,11
+315,Audrey,Wem,awem8q@reverbnation.com,F,IS,Engineering,MDE 103,Kazakh 2,R,2020,spring,50
+316,Vallie,Horder,vhorder8r@wisc.edu,F,CS,Engineering,CSS 208,Physics,E,2021,spring,39
+317,Ivor,Bengtsson,ibengtsson8s@squarespace.com,M,IS,Engineering,CSS 215,Programming abstractions,E,2019,fall,77
+318,Sayre,Grinston,sgrinston8t@ifeng.com,M,MAT,Engineering,MAT 102,Mathematics 2,E,2020,spring,48
+319,Ella,Teresse,eteresse8u@who.int,F,CS,Engineering,MAT 101,Mathematics 1,E,2021,fall,59
+321,Tillie,Iacomo,tiacomo8w@gnu.org,F,MAT,Engineering,CSS 101,Fundamentals of programming,E,2020,spring,23
+323,Willey,McCloch,wmccloch8y@tinypic.com,M,MAT,Engineering,MDE 102,Kazakh 1,E,2021,summer,71
+326,Paloma,Pods,ppods91@paginegialle.it,F,MAT,Engineering,CSS 202,Algorithms 2,E,2021,summer,50
+327,Henryetta,Buddle,hbuddle92@exblog.jp,F,IS,Engineering,MAT 105,Discrete math,E,2020,summer,8
+328,Hadlee,Senett,hsenett93@sina.com.cn,M,CS,Engineering,CSS 208,Physics,E,2020,fall,41
+329,Tiena,Prisk,tprisk94@elpais.com,F,IS,Engineering,CSS 225,Web technologies,R,2021,spring,57
+330,Lavinia,Chown,lchown95@digg.com,F,CS,Engineering,CSS 101,Fundamentals of programming,E,2019,fall,57
+331,Mariann,Eskrigg,meskrigg96@newyorker.com,F,CS,Engineering,MAT 202,Probability and Statistics,R,2021,fall,5
+333,Layney,McFarland,lmcfarland98@google.com.au,F,IS,Engineering,MAT 102,Mathematics 2,E,2020,spring,90
+334,Myer,Ranyard,mranyard99@drupal.org,M,IS,Engineering,CSS 221,Database 2,R,2020,spring,31
+335,Ashlan,Botten,abotten9a@statcounter.com,F,MAT,Engineering,MAT 101,Mathematics 1,R,2019,summer,12
+336,Kenton,Simcoe,ksimcoe9b@weather.com,M,CS,Engineering,CSS 221,Database 2,R,2021,summer,91
+337,Mable,Grishanin,mgrishanin9c@dion.ne.jp,F,MAT,Engineering,MAT 102,Mathematics 2,E,2021,fall,84
+340,Rasla,Ivanikov,rivanikov9f@blogspot.com,F,IS,Engineering,CSS 221,Database 2,R,2020,spring,66
+341,Kellyann,Hatfull,khatfull9g@printfriendly.com,F,MAT,Engineering,MAT 101,Mathematics 1,R,2020,spring,28
+342,Neal,Pentecost,npentecost9h@blogtalkradio.com,M,IS,Engineering,MAT 102,Mathematics 2,E,2019,fall,48
+345,Louie,Grisbrook,lgrisbrook9k@google.co.uk,M,IS,Engineering,MDE 115,Turkish 2,E,2020,spring,94
+346,Benedicto,Sorrel,bsorrel9l@etsy.com,M,CS,Engineering,MDE 102,Kazakh 1,R,2021,spring,25
+348,Norrie,Fern,nfern9n@biblegateway.com,M,MAT,Engineering,MDE 115,Turkish 2,R,2020,spring,34
+349,Halli,Hatherall,hhatherall9o@biglobe.ne.jp,F,MAT,Engineering,CSS 210,Database 1,E,2019,summer,23
+352,Quinta,Renowden,qrenowden9r@tinypic.com,F,MAT,Engineering,CSS 225,Web technologies,R,2020,summer,78
+353,Susana,Mitchenson,smitchenson9s@zimbio.com,F,MAT,Engineering,MAT 101,Mathematics 1,R,2019,summer,8
+354,Wilbert,Reuss,wreuss9t@vistaprint.com,M,CS,Engineering,MDE 105,Turkish 1,E,2021,fall,22
+355,Melantha,Williams,mwilliams9u@google.co.uk,F,MAT,Engineering,MAT 202,Probability and Statistics,E,2019,summer,80
+356,Lewiss,Barents,lbarents9v@buzzfeed.com,M,MAT,Engineering,MAT 105,Discrete math,E,2020,summer,95
+358,Courtnay,Bartos,cbartos9x@opera.com,F,MAT,Engineering,MAT 102,Mathematics 2,E,2020,spring,87
+360,Davon,Ditt,dditt9z@addtoany.com,M,CS,Engineering,CSS 215,Programming abstractions,R,2021,summer,38
+362,Bealle,McKeachie,bmckeachiea1@mapy.cz,M,CS,Engineering,MAT 101,Mathematics 1,E,2020,fall,12
+368,Walden,Lammin,wlammina7@nih.gov,M,MAT,Engineering,CSS 201,Algorithms 1,E,2019,fall,35
+370,Simona,A'Barrow,sabarrowa9@webs.com,F,IS,Engineering,CSS 215,Programming abstractions,E,2021,spring,17
+371,Ashton,McNeilley,amcneilleyaa@businessweek.com,M,MAT,Engineering,CSS 101,Fundamentals of programming,E,2020,summer,50
+372,Marcelle,Wainscoat,mwainscoatab@cornell.edu,F,CS,Engineering,CSS 225,Web technologies,E,2019,fall,34
+373,Putnem,Goldston,pgoldstonac@yale.edu,M,MAT,Engineering,CSS 208,Physics,R,2021,spring,68
+375,Stefano,Goakes,sgoakesae@woothemes.com,M,IS,Engineering,CSS 215,Programming abstractions,E,2019,summer,48
+376,Timmy,Campsall,tcampsallaf@about.com,F,CS,Engineering,MDE 105,Turkish 1,E,2019,summer,3
+378,Sanders,Glynn,sglynnah@scribd.com,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2019,spring,55
+383,Lory,Highway,lhighwayam@narod.ru,F,IS,Engineering,MAT 101,Mathematics 1,E,2020,spring,68
+385,Ole,Moorcroft,omoorcroftao@friendfeed.com,M,IS,Engineering,CSS 101,Fundamentals of programming,E,2019,fall,50
+388,Stanly,Raye,srayear@fastcompany.com,M,MAT,Engineering,CSS 225,Web technologies,R,2019,summer,7
+390,Ashia,Cullrford,acullrfordat@mapquest.com,F,CS,Engineering,CSS 215,Programming abstractions,R,2019,spring,50
+391,Kacey,Altoft,kaltoftau@mit.edu,F,CS,Engineering,CSS 201,Algorithms 1,E,2019,fall,44
+394,Candida,Fleckney,cfleckneyax@shinystat.com,F,MAT,Engineering,MDE 102,Kazakh 1,E,2019,summer,79
+395,Benny,Dannohl,bdannohlay@joomla.org,M,MAT,Engineering,MDE 102,Kazakh 1,E,2019,fall,17
+397,Dennis,Hackey,dhackeyb0@eepurl.com,M,MAT,Engineering,CSS 208,Physics,R,2019,summer,77
+400,Dolly,Savine,dsavineb3@twitpic.com,F,IS,Engineering,MDE 101,English 1,E,2020,summer,16
+401,Kerstin,Rolstone,krolstoneb4@4shared.com,F,MAT,Engineering,MAT 101,Mathematics 1,R,2019,fall,44
+403,Alexandra,Lansdowne,alansdowneb6@google.nl,F,CS,Engineering,MAT 202,Probability and Statistics,R,2021,fall,86
+404,Alleen,Songist,asongistb7@example.com,F,IS,Engineering,CSS 101,Fundamentals of programming,E,2020,spring,66
+405,Shoshanna,Hellin,shellinb8@cafepress.com,F,IS,Engineering,CSS 225,Web technologies,R,2020,spring,51
+406,Louis,Hardingham,lhardinghamb9@utexas.edu,M,IS,Engineering,MDE 115,Turkish 2,E,2019,summer,13
+407,Karine,Soal,ksoalba@oakley.com,F,CS,Engineering,MDE 103,Kazakh 2,R,2019,summer,29
+408,Hank,Streather,hstreatherbb@wsj.com,M,MAT,Engineering,MDE 105,Turkish 1,E,2020,fall,4
+409,Northrop,Goulthorp,ngoulthorpbc@nps.gov,M,MAT,Engineering,MAT 101,Mathematics 1,R,2019,fall,18
+410,Kerwin,Grey,kgreybd@friendfeed.com,M,CS,Engineering,MAT 105,Discrete math,R,2020,summer,99
+411,Maude,Markwelley,mmarkwelleybe@wikispaces.com,F,MAT,Engineering,CSS 201,Algorithms 1,E,2021,summer,66
+413,Josee,Coils,jcoilsbg@ftc.gov,F,IS,Engineering,MDE 103,Kazakh 2,R,2019,fall,7
+415,Haroun,Hales,hhalesbi@nifty.com,M,IS,Engineering,MAT 202,Probability and Statistics,E,2019,summer,15
+416,Neville,Ciccotti,nciccottibj@meetup.com,M,CS,Engineering,MAT 101,Mathematics 1,E,2021,spring,35
+418,Bernette,Birkby,bbirkbybl@histats.com,F,MAT,Engineering,CSS 221,Database 2,R,2021,spring,13
+420,Miguelita,Fend,mfendbn@reuters.com,F,CS,Engineering,MAT 102,Mathematics 2,E,2020,fall,77
+422,Yul,Jessopp,yjessoppbp@t.co,M,CS,Engineering,MAT 102,Mathematics 2,E,2021,spring,72
+424,Clim,Allnatt,callnattbr@whitehouse.gov,M,CS,Engineering,CSS 101,Fundamentals of programming,E,2020,spring,24
+425,Jolee,Bolding,jboldingbs@nature.com,F,CS,Engineering,MAT 102,Mathematics 2,E,2020,summer,80
+426,Filippa,Dobbin,fdobbinbt@cocolog-nifty.com,F,MAT,Engineering,MAT 102,Mathematics 2,E,2019,spring,85
+427,Heddi,Schistl,hschistlbu@cmu.edu,F,MAT,Engineering,CSS 210,Database 1,E,2020,spring,46
+428,Ricard,Stag,rstagbv@merriam-webster.com,M,IS,Engineering,MDE 105,Turkish 1,R,2020,spring,91
+430,Janessa,McSherry,jmcsherrybx@unc.edu,F,IS,Engineering,CSS 215,Programming abstractions,E,2019,summer,18
+433,Parke,Clendening,pclendeningc0@bravesites.com,M,CS,Engineering,MDE 101,English 1,R,2020,spring,97
+434,Emmeline,Pawlaczyk,epawlaczykc1@icio.us,F,CS,Engineering,CSS 101,Fundamentals of programming,E,2019,summer,71
+435,Decca,Coleman,dcolemanc2@samsung.com,M,IS,Engineering,MDE 101,English 1,E,2021,summer,45
+437,Maire,Kieff,mkieffc4@discuz.net,F,IS,Engineering,MAT 105,Discrete math,E,2020,fall,8
+439,Maxy,Noddles,mnoddlesc6@businesswire.com,F,CS,Engineering,MAT 103,Linear algebra,E,2020,summer,62
+440,Stacie,Creeghan,screeghanc7@symantec.com,F,CS,Engineering,CSS 221,Database 2,R,2021,fall,44
+442,Maximilian,Reims,mreimsc9@plala.or.jp,M,MAT,Engineering,CSS 210,Database 1,E,2021,summer,61
+444,Rudolph,Smaridge,rsmaridgecb@yale.edu,M,CS,Engineering,MDE 101,English 1,R,2019,summer,36
+445,Lynna,Burchnall,lburchnallcc@ocn.ne.jp,F,MAT,Engineering,MDE 105,Turkish 1,E,2019,spring,98
+446,Calla,Tynemouth,ctynemouthcd@4shared.com,F,MAT,Engineering,CSS 208,Physics,R,2021,spring,49
+447,Stanford,Godier,sgodierce@mapy.cz,M,CS,Engineering,MAT 103,Linear algebra,E,2021,fall,18
+449,Willetta,Poytress,wpoytresscg@addtoany.com,F,CS,Engineering,MAT 101,Mathematics 1,E,2019,summer,76
+450,Ferguson,Dowdney,fdowdneych@rakuten.co.jp,M,MAT,Engineering,CSS 225,Web technologies,R,2021,fall,35
+451,Barron,Cathie,bcathieci@360.cn,M,CS,Engineering,CSS 210,Database 1,E,2021,fall,47
+452,Eydie,Blackman,eblackmancj@google.es,F,IS,Engineering,CSS 221,Database 2,R,2021,spring,18
+454,Agna,Schoular,aschoularcl@dot.gov,F,CS,Engineering,MAT 105,Discrete math,R,2020,summer,26
+456,Chick,Marshland,cmarshlandcn@com.com,M,MAT,Engineering,CSS 202,Algorithms 2,E,2019,summer,98
+457,Lamond,Quaif,lquaifco@xrea.com,M,IS,Engineering,MDE 115,Turkish 2,E,2019,fall,11
+458,Damara,Branston,dbranstoncp@tinyurl.com,F,IS,Engineering,CSS 210,Database 1,R,2019,fall,1
+460,Fraser,Rosier,frosiercr@geocities.com,M,IS,Engineering,CSS 215,Programming abstractions,E,2019,fall,80
+461,Anthiathia,Campa,acampacs@cbc.ca,F,IS,Engineering,MAT 105,Discrete math,E,2020,spring,80
+462,Minda,Kingstne,mkingstnect@bing.com,F,CS,Engineering,MAT 105,Discrete math,R,2021,fall,95
+463,Garrard,Studman,gstudmancu@ihg.com,M,MAT,Engineering,MAT 202,Probability and Statistics,E,2019,fall,43
+465,Bogart,Halcro,bhalcrocw@constantcontact.com,M,CS,Engineering,MAT 103,Linear algebra,E,2019,summer,94
+467,Rubetta,Tottle,rtottlecy@dion.ne.jp,F,IS,Engineering,CSS 201,Algorithms 1,E,2020,spring,42
+468,Lilias,Gooday,lgoodaycz@hibu.com,F,CS,Engineering,MAT 103,Linear algebra,E,2021,summer,92
+469,Tallie,Ivakhin,tivakhind0@time.com,M,CS,Engineering,MAT 202,Probability and Statistics,R,2020,spring,80
+470,Obadias,Kinchington,okinchingtond1@paypal.com,M,IS,Engineering,CSS 201,Algorithms 1,E,2019,summer,73
+471,Say,Eccott,seccottd2@bravesites.com,M,MAT,Engineering,MAT 101,Mathematics 1,R,2021,spring,11
+475,Francklin,Lefort,flefortd6@netvibes.com,M,CS,Engineering,MDE 111,English 2,R,2019,summer,67
+476,Alonzo,Calcott,acalcottd7@ucla.edu,M,MAT,Engineering,CSS 102,Programming technologies,E,2019,summer,15
+478,Marena,Westoff,mwestoffd9@51.la,F,IS,Engineering,CSS 221,Database 2,R,2020,fall,43
+479,Clarie,Cocking,ccockingda@163.com,F,IS,Engineering,MAT 103,Linear algebra,E,2021,fall,22
+480,Creight,Grugerr,cgrugerrdb@parallels.com,M,CS,Engineering,MDE 111,English 2,R,2021,fall,48
+482,Johannes,Dottridge,jdottridgedd@furl.net,M,MAT,Engineering,MDE 105,Turkish 1,E,2020,fall,96
+483,Ulrick,Brandsma,ubrandsmade@uiuc.edu,M,IS,Engineering,MAT 103,Linear algebra,E,2021,spring,72
+484,Aurore,Andren,aandrendf@bbc.co.uk,F,CS,Engineering,MDE 115,Turkish 2,E,2021,fall,51
+485,Hew,Talby,htalbydg@google.es,M,IS,Engineering,MDE 103,Kazakh 2,R,2021,spring,40
+486,Gerhardt,Dunkerley,gdunkerleydh@nhs.uk,M,IS,Engineering,MAT 105,Discrete math,E,2020,fall,13
+488,Barthel,Ladd,bladddj@vkontakte.ru,M,MAT,Engineering,CSS 215,Programming abstractions,R,2020,fall,57
+490,Marleen,Brammall,mbrammalldl@dyndns.org,F,CS,Engineering,MAT 105,Discrete math,R,2019,summer,6
+492,Burgess,Lauritzen,blauritzendn@earthlink.net,M,IS,Engineering,CSS 101,Fundamentals of programming,E,2021,fall,25
+493,Riobard,Itzig,ritzigdo@statcounter.com,M,CS,Engineering,MAT 103,Linear algebra,E,2021,summer,64
+494,Ortensia,Corley,ocorleydp@live.com,F,MAT,Engineering,CSS 221,Database 2,R,2021,spring,49
+495,Tanya,Lehrer,tlehrerdq@friendfeed.com,F,CS,Engineering,MAT 202,Probability and Statistics,R,2021,fall,63
+496,Barnabe,Kelledy,bkelledydr@ovh.net,M,IS,Engineering,MDE 105,Turkish 1,R,2021,summer,15
+498,Tanny,Figiovanni,tfigiovannidt@webs.com,M,IS,Engineering,CSS 221,Database 2,R,2019,summer,93
+499,Dehlia,Pottinger,dpottingerdu@symantec.com,F,IS,Engineering,MAT 102,Mathematics 2,E,2021,summer,11
+500,Deane,McCuffie,dmccuffiedv@booking.com,F,MAT,Engineering,MDE 103,Kazakh 2,R,2019,summer,38
+1,Giavani,Cathersides,gcathersides0@vk.com,M,CS,Engineering,CSS 208,Physics,E,2021,summer,22
+2,Pedro,Pigram,ppigram1@timesonline.co.uk,M,MAT,Engineering,MAT 105,Discrete math,E,2019,spring,86
+3,Robena,Tunstall,rtunstall2@msn.com,F,MAT,Engineering,MDE 115,Turkish 2,R,2019,summer,56
+5,Caresse,Gratten,cgratten4@baidu.com,F,MAT,Engineering,MDE 111,English 2,R,2021,fall,22
+6,Josy,Reeme,jreeme5@wsj.com,F,CS,Engineering,MDE 102,Kazakh 1,R,2020,fall,49
+8,Thornie,Puddin,tpuddin7@google.es,M,CS,Engineering,MDE 102,Kazakh 1,R,2019,summer,97
+9,Kincaid,Keiley,kkeiley8@nih.gov,M,MAT,Engineering,CSS 215,Programming abstractions,R,2019,summer,46
+10,Jemie,Norgan,jnorgan9@reuters.com,F,MAT,Engineering,MDE 115,Turkish 2,R,2019,fall,30
+12,Herb,Simchenko,hsimchenkob@oracle.com,M,MAT,Engineering,CSS 225,Web technologies,R,2019,summer,64
+13,Judah,Bryenton,jbryentonc@dot.gov,M,MAT,Engineering,CSS 225,Web technologies,R,2021,fall,12
+15,Livy,Guite,lguitee@pinterest.com,F,IS,Engineering,MAT 101,Mathematics 1,E,2021,summer,42
+18,Jarrad,Lancaster,jlancasterh@delicious.com,M,IS,Engineering,MAT 202,Probability and Statistics,E,2019,summer,83
+20,Randy,Scotson,rscotsonj@youtu.be,F,MAT,Engineering,CSS 201,Algorithms 1,E,2021,spring,41
+23,Hercule,Hardwich,hhardwichm@hud.gov,M,IS,Engineering,CSS 210,Database 1,R,2019,summer,31
+25,Jane,Jee,jjeeo@wsj.com,F,MAT,Engineering,MDE 111,English 2,R,2020,summer,74
+27,Crissie,Cornuau,ccornuauq@google.nl,F,CS,Engineering,CSS 102,Programming technologies,R,2020,fall,71
+30,Joseito,Sumpter,jsumptert@ft.com,M,MAT,Engineering,CSS 215,Programming abstractions,R,2019,spring,75
+31,Lurlene,Dykas,ldykasu@irs.gov,F,MAT,Engineering,CSS 215,Programming abstractions,R,2021,fall,79
+33,Juana,Hillborne,jhillbornew@clickbank.net,F,IS,Engineering,MAT 101,Mathematics 1,E,2021,spring,9
+34,Odele,MacRanald,omacranaldx@miitbeian.gov.cn,F,MAT,Engineering,MDE 115,Turkish 2,R,2021,fall,43
+35,Skelly,Ellin,selliny@mail.ru,M,CS,Engineering,MDE 111,English 2,R,2020,fall,10
+36,Hedvig,Ogle,hoglez@independent.co.uk,F,MAT,Engineering,CSS 202,Algorithms 2,E,2021,fall,33
+37,Juline,MacShane,jmacshane10@ning.com,F,IS,Engineering,CSS 221,Database 2,R,2019,summer,30
+38,Arv,Kobelt,akobelt11@google.com,M,MAT,Engineering,MDE 102,Kazakh 1,E,2019,summer,61
+39,Taffy,Mariolle,tmariolle12@wisc.edu,F,IS,Engineering,MAT 101,Mathematics 1,E,2020,summer,40
+40,Janeczka,Whyley,jwhyley13@amazonaws.com,F,MAT,Engineering,MDE 105,Turkish 1,E,2019,summer,62
+41,Shanta,Quogan,squogan14@wsj.com,F,CS,Engineering,CSS 102,Programming technologies,R,2019,summer,70
+42,Dennet,Micklem,dmicklem15@diigo.com,M,MAT,Engineering,MDE 102,Kazakh 1,E,2021,spring,73
+43,Kaspar,Jozef,kjozef16@state.tx.us,M,CS,Engineering,MAT 101,Mathematics 1,E,2021,summer,46
+45,Gallagher,Parkin,gparkin18@de.vu,M,IS,Engineering,MAT 105,Discrete math,E,2020,spring,54
+46,Nellie,Wilce,nwilce19@fda.gov,F,IS,Engineering,MDE 102,Kazakh 1,E,2021,fall,41
+47,Janel,MacMenemy,jmacmenemy1a@bbc.co.uk,F,IS,Engineering,MAT 102,Mathematics 2,E,2020,summer,63
+49,Clark,Moens,cmoens1c@etsy.com,M,MAT,Engineering,CSS 102,Programming technologies,E,2019,spring,84
+50,Alexia,Mainson,amainson1d@earthlink.net,F,CS,Engineering,CSS 208,Physics,E,2020,spring,27
+53,Damita,Dahmke,ddahmke1g@vimeo.com,F,CS,Engineering,CSS 202,Algorithms 2,R,2020,fall,10
+54,Quint,Schermick,qschermick1h@intel.com,M,CS,Engineering,CSS 102,Programming technologies,R,2020,fall,77
+55,Callida,Jullian,cjullian1i@symantec.com,F,MAT,Engineering,CSS 215,Programming abstractions,R,2021,summer,34
+58,Vance,Juszczak,vjuszczak1l@go.com,M,MAT,Engineering,CSS 201,Algorithms 1,E,2020,spring,2
+59,Saundra,Girardi,sgirardi1m@eventbrite.com,M,CS,Engineering,CSS 102,Programming technologies,R,2020,spring,8
+61,Hastie,Atwater,hatwater1o@tripadvisor.com,M,CS,Engineering,CSS 208,Physics,E,2021,fall,24
+62,Charmine,Rastrick,crastrick1p@bandcamp.com,F,CS,Engineering,CSS 225,Web technologies,E,2020,spring,84
+64,Thomasa,Duberry,tduberry1r@uol.com.br,F,CS,Engineering,CSS 102,Programming technologies,R,2021,summer,17
+65,Audrie,Ockleshaw,aockleshaw1s@fc2.com,F,IS,Engineering,MDE 105,Turkish 1,R,2020,spring,18
+66,Carmina,Pitblado,cpitblado1t@cbsnews.com,F,CS,Engineering,MDE 103,Kazakh 2,R,2019,spring,47
+67,Homer,Rissen,hrissen1u@geocities.jp,M,IS,Engineering,MDE 111,English 2,R,2020,summer,83
+70,Olav,Dutton,odutton1x@timesonline.co.uk,M,MAT,Engineering,MDE 105,Turkish 1,E,2019,fall,97
+71,Jacquelynn,Macbane,jmacbane1y@sbwire.com,F,IS,Engineering,MAT 102,Mathematics 2,E,2020,summer,59
+73,Deanne,Leyshon,dleyshon20@1und1.de,F,CS,Engineering,MAT 202,Probability and Statistics,R,2021,summer,45
+75,Forrest,Kerne,fkerne22@wikispaces.com,M,CS,Engineering,CSS 202,Algorithms 2,R,2019,summer,60
+76,Eva,Lince,elince23@wordpress.org,F,MAT,Engineering,CSS 208,Physics,R,2019,fall,12
+79,Augusto,Donegan,adonegan26@loc.gov,M,MAT,Engineering,MDE 115,Turkish 2,R,2020,summer,84
+81,Jolene,Trelevan,jtrelevan28@baidu.com,F,IS,Engineering,CSS 221,Database 2,R,2021,fall,37
+82,Perry,Foxon,pfoxon29@forbes.com,M,MAT,Engineering,MDE 115,Turkish 2,R,2021,summer,99
+85,Marena,Faunch,mfaunch2c@apple.com,F,CS,Engineering,MDE 103,Kazakh 2,R,2020,summer,65
+86,Humberto,Matton,hmatton2d@comsenz.com,M,MAT,Engineering,CSS 202,Algorithms 2,E,2019,summer,61
+88,Pattie,Thonger,pthonger2f@cbsnews.com,M,IS,Engineering,MDE 115,Turkish 2,E,2020,fall,5
+89,Thor,Barlass,tbarlass2g@newyorker.com,M,MAT,Engineering,MAT 102,Mathematics 2,E,2021,summer,30
+91,Antonius,Rain,arain2i@bbb.org,M,CS,Engineering,CSS 201,Algorithms 1,E,2020,spring,88
+92,Hadleigh,Farguhar,hfarguhar2j@usda.gov,M,IS,Engineering,CSS 202,Algorithms 2,R,2019,summer,92
+93,Viviana,Askell,vaskell2k@unblog.fr,F,CS,Engineering,CSS 210,Database 1,E,2019,spring,63
+95,Elvira,Bateman,ebateman2m@imgur.com,F,CS,Engineering,CSS 210,Database 1,E,2019,fall,62
+97,Kissiah,O'Scollee,koscollee2o@squarespace.com,F,MAT,Engineering,MDE 115,Turkish 2,R,2019,spring,13
+98,Janela,Urian,jurian2p@parallels.com,F,IS,Engineering,CSS 101,Fundamentals of programming,E,2021,summer,14
+101,Bo,Steinson,bsteinson2s@ow.ly,M,IS,Engineering,CSS 201,Algorithms 1,E,2021,fall,65
+102,Ellyn,Loxly,eloxly2t@stanford.edu,F,IS,Engineering,MDE 105,Turkish 1,R,2020,spring,15
+103,Rina,Skaif,rskaif2u@weather.com,F,CS,Engineering,CSS 221,Database 2,R,2019,summer,76
+105,Sansone,Eatock,seatock2w@umich.edu,M,CS,Engineering,MAT 105,Discrete math,R,2021,summer,2
+107,Derry,Crabtree,dcrabtree2y@networkadvertising.org,M,CS,Engineering,MDE 111,English 2,R,2021,spring,97
